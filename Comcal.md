@@ -3,7 +3,7 @@
 [<img src="https://podcast.macadmins.org/wp-content/uploads/2017/06/Watchman-Monitoring-logo-blue.png" alt="" width="500" height="115" />](https://www.watchmanmonitoring.com)
  
 ##### Conference Sites
-​
+
 - [Penn State University Mac Admins](http://macadmins.psu.edu) in State College, PA July 10th-13th
 - [MacSysdamin](https://macsysadmin.se) in Göteborg, Sweden, October 2-5, 2018
 - [Jamf Nation User Conference](https://www.jamf.com/events/jamf-nation-user-conference/2018/) in Minneapolis, Minnesota, October 23-25, 2018
