@@ -18,4 +18,4 @@
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
 | [Macbrained SF](https://www.eventbrite.com/e/sf-macbrained-august-twitter-tickets-48631075857)	| Twitter HQ	| August 8th, 6pm Pacific	| Free	|
-| [Utah Apple Admins](https://apple.lib.utah.edu/august-2018-macadmins-meeting/) | August 15th, 11am Mountain	| Free	|
+| [Utah Apple Admins](https://apple.lib.utah.edu/august-2018-macadmins-meeting/) | Marriott Library, University of Utah | August 15th, 11am Mountain	| Free	|
