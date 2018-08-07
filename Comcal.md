@@ -19,4 +19,5 @@
 |------------|----------|-------|------|
 | [Macbrained SF](https://www.eventbrite.com/e/sf-macbrained-august-twitter-tickets-48631075857)	| Twitter HQ	| August 8th, 6pm Pacific	| Free	|
 | [Utah Apple Admins](https://apple.lib.utah.edu/august-2018-macadmins-meeting/) | Marriott Library, University of Utah | August 15th, 11am Mountain	| Free	|
+| [Atlanta Apple Admins](https://www.meetup.com/Atlanta-Apple-Admins/events/253589951/) | Good Word Brewing & Public House in Duluth, GA | August 30, 6:30 p.m. Eastern | Free |
 | [MacDeployment Meetup](http://macdeployment.ca) | Market Mall Apple Store (To Be Confirmed), Calgary AB Canada | September 25, 6:30 p.m. Mountain | Free |
