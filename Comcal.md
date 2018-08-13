@@ -17,6 +17,7 @@
 |------------|----------|-------|------|
 | [Utah Apple Admins](https://apple.lib.utah.edu/august-2018-macadmins-meeting/) | Marriott Library, University of Utah | August 15th, 11am Mountain	| Free	|
 | [Apple Admins of Seattle & The Great Northwest](https://www.meetup.com/Seattle-Apple-Admins/events/253590961/) | Nordstrom Studio N | August 16th, 6pm Pacific | Free |
+| [Greater Philadelphia Mac Admins](https://www.meetup.com/Greater-Philadelphia-Area-Mac-Admins/events/253387011/) | [Apple Store, Walnut Street](https://www.apple.com/retail/walnutstreet/) | August 23, 6 PM Eastern | Free |
 | [Austin Apple Admins](https://austinappleadmins.org/) | [The Home Depot Austin Technology Center](https://goo.gl/maps/7p6rqKScv4x) | August 29, 7pm CT | Free |
 | [Atlanta Apple Admins](https://www.meetup.com/Atlanta-Apple-Admins/events/253589951/) | Good Word Brewing & Public House in Duluth, GA | August 30, 6:30 p.m. Eastern | Free |
 | [MacDeployment Meetup](http://macdeployment.ca) | Market Mall Apple Store, Calgary AB Canada | September 25, 6:30 p.m. Mountain | Free |
