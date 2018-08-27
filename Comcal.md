@@ -19,3 +19,4 @@
 | [Austin Apple Admins](https://www.eventbrite.com/e/august-meetup-at-the-home-depot-austin-technology-center-registration-49134731304) | [The Home Depot Austin Technology Center](https://goo.gl/maps/7p6rqKScv4x) | August 29, 7pm CT | Free |
 | [Atlanta Apple Admins](https://www.meetup.com/Atlanta-Apple-Admins/events/253589951/) | Good Word Brewing & Public House in Duluth, GA | August 30, 6:30 p.m. Eastern | Free |
 | [MacDeployment Meetup](http://macdeployment.ca) | Market Mall Apple Store, Calgary AB Canada | September 25, 6:30 p.m. Mountain | Free |
+| [Toronto Apple Admins](https://www.eventbrite.com/e/toronto-macadmins-meet-up-tickets-49558094595) | Shopify Office, 80 Spadina Avenue Toronto, ON M5V 2J4 | September 13, 6:00 p.m. Eastern | Free |
