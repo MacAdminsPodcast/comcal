@@ -18,4 +18,5 @@
 | [Melbourne Apple Admins](https://melbourneappleadmins.org.au) | Slack APAC HQ, Carlton | August 29, 6:30pm | Free |
 | [Austin Apple Admins](https://www.eventbrite.com/e/august-meetup-at-the-home-depot-austin-technology-center-registration-49134731304) | [The Home Depot Austin Technology Center](https://goo.gl/maps/7p6rqKScv4x) | August 29, 7pm CT | Free |
 | [Atlanta Apple Admins](https://www.meetup.com/Atlanta-Apple-Admins/events/253589951/) | Good Word Brewing & Public House in Duluth, GA | August 30, 6:30 p.m. Eastern | Free |
+[London Apple Admins](http://www.londonappleadmins.org.uk/events/21st-september-2018-meet-up-capital-one/) | [Capital One](https://goo.gl/maps/e2VtZSUtKCE2) | September 21, 6:30pm BST | Free |
 | [MacDeployment Meetup](http://macdeployment.ca) | Market Mall Apple Store, Calgary AB Canada | September 25, 6:30 p.m. Mountain | Free |
