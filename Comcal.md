@@ -18,3 +18,4 @@
 | [Toronto Apple Admins](https://www.eventbrite.com/e/toronto-macadmins-meet-up-tickets-49558094595) | Shopify Office, 80 Spadina Avenue Toronto, ON M5V 2J4 | September 13, 6:00 p.m. Eastern | Free |
 [London Apple Admins](http://www.londonappleadmins.org.uk/events/21st-september-2018-meet-up-capital-one/) | [Capital One](https://goo.gl/maps/e2VtZSUtKCE2) | September 21, 6:30pm BST | Free |
 | [MacDeployment Meetup](http://macdeployment.ca) | Market Mall Apple Store, Calgary AB Canada | September 25, 6:30 p.m. Mountain | Free |
+| [Houston Apple Admins](https://houstonappleadmins.org/September-Meetup/) | [FlightAware](https://goo.gl/maps/XQ3wqBddPUP2) | September 27, 6:00 p.m. Central | Free |
