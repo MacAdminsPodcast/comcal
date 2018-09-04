@@ -19,3 +19,4 @@
 [London Apple Admins](http://www.londonappleadmins.org.uk/events/21st-september-2018-meet-up-capital-one/) | [Capital One](https://goo.gl/maps/e2VtZSUtKCE2) | September 21, 6:30pm BST | Free |
 | [MacDeployment Meetup](http://macdeployment.ca) | Market Mall Apple Store, Calgary AB Canada | September 25, 6:30 p.m. Mountain | Free |
 | [Houston Apple Admins](https://houstonappleadmins.org/September-Meetup/) | [FlightAware](https://goo.gl/maps/XQ3wqBddPUP2) | September 27, 6:00 p.m. Central | Free |
+| [Brisbane Apple Wranglers](http://groupspaces.com/BrisbaneAppleWranglers/) | [Fishburners](https://goo.gl/maps/mhsXQVToNdv) | September 27, 7:00 p.m. AEST | Free |
