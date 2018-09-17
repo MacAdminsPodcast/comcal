@@ -15,7 +15,6 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Toronto Apple Admins](https://www.eventbrite.com/e/toronto-macadmins-meet-up-tickets-49558094595) | Shopify Office, 80 Spadina Avenue Toronto, ON M5V 2J4 | September 13, 6:00 p.m. Eastern | Free |
 | [Univ of Utah MacAdmins](https://apple.lib.utah.edu/septemeber-2018-macadmins-meeting/) | [University of Utah, Marriott Library, Salt Lake City, UT](https://goo.gl/maps/RsnVkkVX68q) | September 19, 11:00 a.m. Mountain | Free |
 | [Seattle Apple Admins](https://www.meetup.com/Seattle-Apple-Admins/) | [Accolade, Downtown Seattle](https://www.google.com/maps/search/?api=1&query=47.611446%2C-122.332756) | September 20, 6:00 p.m. Eastern | Free |
 | [Dallas Apple Admins](http://dallasappleadmins.org/2018-09-12/Sept-2018-Meetup) | [Bottlerocket Studios](https://goo.gl/maps/zJAoMTafkHD2) | September 20, 6:30 p.m. Central | Free |
