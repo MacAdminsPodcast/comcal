@@ -18,3 +18,4 @@
 | [Seattle Apple Admins](https://www.meetup.com/Seattle-Apple-Admins/events/) | [The Giddens School, Seattle](https://goo.gl/maps/pD2DiAgLiaG2) | 18 October 2018, 6pm | Free |
 | [MacDeployment Meetup](http://macdeployment.ca) | [Market Mall Apple Store, Calgary AB Canada](https://maps.apple.com/?address=3625%20Shaganappi%20Trail%20NW\,%20Calgary%20AB%20T3A%200E2\,%20Canada&auid=3320776729563026883&ll=51.082992\,-114.154370&lsp=9902&q=Apple%20Market%20Mall) | 24 October 2018, 6:30 p.m. | Free |
 | [Atlanta Apple Admins](https://www.meetup.com/Atlanta-Apple-Admins/) | [CNN Center, Atlanta, GA](http://maps.apple.com/?address=115,Centenial+Olympic+Park+DR+NW,Atlanta,Georgia) | 8 November 2018, 7pm | Free |
+| [Toronto Apple Admins](https://torontomacadminsgroup.github.io/) | [Globe and Mail Centre, Toronto, ON Canada](https://goo.gl/maps/57GRKLNha4N2) | 15 November 2018, 6pm | Free |
