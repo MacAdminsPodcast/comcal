@@ -14,9 +14,6 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [MacDMV](https://macdmv.com) | [Union Station Mario Kart VR](https://goo.gl/maps/Ksee85MbQyj) | 17 October 2018, 6pm | Free |
-| [Seattle Apple Admins](https://www.meetup.com/Seattle-Apple-Admins/events/) | [The Giddens School, Seattle](https://goo.gl/maps/pD2DiAgLiaG2) | 18 October 2018, 6pm | Free |
-| [Greater Philadelphia Mac Admins](https://www.meetup.com/Greater-Philadelphia-Area-Mac-Admins/events/255486488/) | [Apple Store Walnut Street, Philadelphia](https://www.apple.com/retail/walnutstreet/) | 18 October 2018, 6pm | Free |
 | [Twin Cities Mac Admins and Mac Admins Podcast Party at JNUC!](https://www.eventbrite.com/e/twin-cities-mac-admins-and-mac-admins-podcast-party-at-jnuc-tickets-51288651738) | [Finnegan's Brew Co.](https://goo.gl/maps/c72kWzS1HvG2), Minneapolis, MN | 23 October 2018, 6:30pm | Free |
 | [MacDeployment Meetup](http://macdeployment.ca) | [Market Mall Apple Store, Calgary AB Canada](https://maps.apple.com/?address=3625%20Shaganappi%20Trail%20NW\,%20Calgary%20AB%20T3A%200E2\,%20Canada&auid=3320776729563026883&ll=51.082992\,-114.154370&lsp=9902&q=Apple%20Market%20Mall) | 24 October 2018, 6:30 p.m. | Free |
 | [Atlanta Apple Admins](https://www.meetup.com/Atlanta-Apple-Admins/) | [CNN Center, Atlanta, GA](http://maps.apple.com/?address=115,Centenial+Olympic+Park+DR+NW,Atlanta,Georgia) | 8 November 2018, 7pm | Free |
