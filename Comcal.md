@@ -19,3 +19,4 @@
 | [Atlanta Apple Admins](https://www.meetup.com/Atlanta-Apple-Admins/) | [CNN Center, Atlanta, GA](http://maps.apple.com/?address=115,Centenial+Olympic+Park+DR+NW,Atlanta,Georgia) | 8 November 2018, 7pm | Free |
 | [Toronto Apple Admins](https://torontomacadminsgroup.github.io/) | [Globe and Mail Centre, Toronto, ON Canada](https://goo.gl/maps/57GRKLNha4N2) | 15 November 2018, 6pm | Free |
 | [Dallas Apple Admins](https://dallasappleadmins.org/) | [Bottle Rocket Studios](https://goo.gl/maps/F956UvYNby22) | 15 November 2018, 6:30pm | Free |
+| [Brisbane Apple Wranglers](https://meetup.com/Brisbane-Apple-Wranglers) | [Brisbane CBD Location](https://baw-nov-18.eventbrite.com.au) | 22 November 2018, 7:00pm | Free |
