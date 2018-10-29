@@ -18,3 +18,4 @@
 | [Dallas Apple Admins](https://dallasappleadmins.org/) | [Bottle Rocket Studios](https://goo.gl/maps/F956UvYNby22) | 15 November 2018, 6:30pm | Free |
 | [Brisbane Apple Wranglers](https://meetup.com/Brisbane-Apple-Wranglers) | [Brisbane CBD Location](https://baw-nov-18.eventbrite.com.au) | 22 November 2018, 7:00pm | Free |
 | [MacDeployment Meetup](http://macdeployment.ca) | [1011 9 Ave SE, Calgary AB Canada](https://maps.apple.com/?address=300-1011%209%20Ave%20SE\,%20Calgary%20AB%20T2G%200H7\,%20Canada&auid=12366087821488838832&ll=51.042549\,-114.038709&lsp=9902&q=Critical%20Mass) | 24 October 2018, 6:30 p.m. | Free |
+| [Houston Apple Admins](https://houstonappleadmins.org) | [ChaiOne's new office in Greenway Plaza](https://goo.gl/maps/vyDDcBAKSAw) | November 28 at 6:00 p.m. | Free |
