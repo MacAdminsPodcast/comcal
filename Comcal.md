@@ -6,8 +6,8 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Objective by the Sea](https://objectivebythesea.com) | Wailea, HI | November 3-4 | [Patreon-Backer](https://objectivebythesea.com/attending.html) |
 | [MacTech Conference](https://conference.mactech.com) | Los Angeles, CA | November 6-9 | US$899 |
+| [Mac Admin & Developer Conference, UK](https://macad.uk) | London, United Kingdom | 26-27 March, 2019 | TBD | 
 
 ##### Meetups
 
