@@ -6,14 +6,12 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [MacTech Conference](https://conference.mactech.com) | Los Angeles, CA | November 6-9 | US$899 |
 | [Mac Admin & Developer Conference, UK](https://macad.uk) | London, United Kingdom | 26-27 March, 2019 | TBD | 
 
 ##### Meetups
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Atlanta Apple Admins](https://www.meetup.com/Atlanta-Apple-Admins/) | [CNN Center, Atlanta, GA](http://maps.apple.com/?address=115,Centenial+Olympic+Park+DR+NW,Atlanta,Georgia) | 8 November 2018, 7:00 p.m. ET | Free |
 | [Toronto Apple Admins](https://torontomacadminsgroup.github.io/) | [Globe and Mail Centre, Toronto, ON Canada](https://goo.gl/maps/57GRKLNha4N2) | 15 November 2018, 6:00 p.m. ET | Free |
 | [Greater Philadelphia Mac Admins](https://phillymacadmins.com) | [Temple University, Philadelphia PA](https://www.meetup.com/Greater-Philadelphia-Area-Mac-Admins/events/256009793/) | 15 November 2018, 6:00 p.m. ET | Free |
 | [Dallas Apple Admins](https://dallasappleadmins.org/) | [Bottle Rocket Studios](https://goo.gl/maps/F956UvYNby22) | 15 November 2018, 6:30 p.m. CT | Free |
