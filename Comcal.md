@@ -15,6 +15,7 @@
 |------------|----------|-------|------|
 | [Atlanta Apple Admins](https://www.meetup.com/Atlanta-Apple-Admins/) | [CNN Center, Atlanta, GA](http://maps.apple.com/?address=115,Centenial+Olympic+Park+DR+NW,Atlanta,Georgia) | 8 November 2018, 7:00 p.m. ET | Free |
 | [Toronto Apple Admins](https://torontomacadminsgroup.github.io/) | [Globe and Mail Centre, Toronto, ON Canada](https://goo.gl/maps/57GRKLNha4N2) | 15 November 2018, 6:00 p.m. ET | Free |
+| [Greater Philadelphia Mac Admins](https://phillymacadmins.com) | [Temple University, Philadelphia PA](https://www.meetup.com/Greater-Philadelphia-Area-Mac-Admins/events/256009793/) | 15 November 2018, 6:00 p.m. ET | Free |
 | [Dallas Apple Admins](https://dallasappleadmins.org/) | [Bottle Rocket Studios](https://goo.gl/maps/F956UvYNby22) | 15 November 2018, 6:30 p.m. CT | Free |
 | [Tel Aviv Mac Admins](https://www.meetup.com/MacAdmins-TLV/) | Google Hangouts | 20 November 2018, 4:00 p.m. IST | Free |
 | [MacDeployment Meetup](http://macdeployment.ca) | [1011 9 Ave SE, Calgary AB Canada](https://maps.apple.com/?address=300-1011%209%20Ave%20SE\,%20Calgary%20AB%20T2G%200H7\,%20Canada&auid=12366087821488838832&ll=51.042549\,-114.038709&lsp=9902&q=Critical%20Mass) | 21 November 2018, 6:30 p.m. MT | Free |
