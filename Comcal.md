@@ -22,3 +22,4 @@
 | [MacDeployment Meetup](http://macdeployment.ca) | Market Mall Apple Store, Calgary AB Canada | September 25, 6:30 p.m. Mountain | Free |
 | [Houston Apple Admins](https://houstonappleadmins.org/September-Meetup/) | [FlightAware](https://goo.gl/maps/XQ3wqBddPUP2) | September 27, 6:00 p.m. Central | Free |
 | [Brisbane Apple Wranglers](https://baw-sep-18.eventbrite.com.au/) | [Fishburners](https://goo.gl/maps/mhsXQVToNdv) | September 27, 7:00 p.m. AEST | Free |
+| [Univ of Utah](https://apple.lib.utah.edu) | [Marriott Library - 1705a](https://apple.lib.utah.edu/mac-managers-meeting-directions/) | 3rd Wed of Month @ 11 AM MT | Free |
