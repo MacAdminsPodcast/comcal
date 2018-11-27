@@ -12,15 +12,12 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Toronto Apple Admins](https://torontomacadminsgroup.github.io/) | [Globe and Mail Centre, Toronto, ON Canada](https://goo.gl/maps/57GRKLNha4N2) | 15 November 2018, 6:00 p.m. ET | Free |
-| [Greater Philadelphia Mac Admins](https://phillymacadmins.com) | [Temple University, Philadelphia PA](https://www.meetup.com/Greater-Philadelphia-Area-Mac-Admins/events/256009793/) | 15 November 2018, 6:00 p.m. ET | Free |
-| [Dallas Apple Admins](https://dallasappleadmins.org/) | [Bottle Rocket Studios](https://goo.gl/maps/F956UvYNby22) | 15 November 2018, 6:30 p.m. CT | Free |
-| [Tel Aviv Mac Admins](https://www.meetup.com/MacAdmins-TLV/) | Google Hangouts | 20 November 2018, 4:00 p.m. IST | Free |
-| [MacDeployment Meetup](http://macdeployment.ca) | [1011 9 Ave SE, Calgary AB Canada](https://maps.apple.com/?address=300-1011%209%20Ave%20SE\,%20Calgary%20AB%20T2G%200H7\,%20Canada&auid=12366087821488838832&ll=51.042549\,-114.038709&lsp=9902&q=Critical%20Mass) | 21 November 2018, 6:30 p.m. MT | Free |
-| [franken-macadmins meetup](https://macadmins.slack.com/messages/franken-macadmins) | [Gruener Brauhaus Fuerth](http://www.gruener-brauhaus.de) | 21 November 2018, 6:30 p.m. CET | free |
-| [Brisbane Apple Wranglers](https://meetup.com/Brisbane-Apple-Wranglers) | [Brisbane CBD Location](https://baw-nov-18.eventbrite.com.au) | 22 November 2018, 7:00 p.m. AEST | Free |
 | [Houston Apple Admins](https://houstonappleadmins.org) | [ChaiOne's new office in Greenway Plaza](https://goo.gl/maps/vyDDcBAKSAw) | 28 November 2018, 6:00 p.m. CT | Free |
+| [MacAdmins NYC](https://www.eventbrite.com/e/macadmins-nyc-leveraging-saas-products-to-scale-securely-tickets-52486335041) | [Bread Finance, New York City](https://baw-nov-18.eventbrite.com.au) | 28 November 2018, 6:30 p.m. EST | Free |
 | [Twin Cities Mac Admins](https://www.mspmacadmins.org/2018/11/meetup-december-5-2018/) | [Colle+McVoy](https://goo.gl/maps/ocsKfTCc4dp) | 5 December 2018, 5:30 CST | Free |
+| [Greater Philadelphia Mac Admins](https://phillymacadmins.com) | [Walnut Street Apple Store](https://www.meetup.com/Greater-Philadelphia-Area-Mac-Admins/events/256576539/) | 6 December 2018, 6:00 P.M. EST | Free |
 | [London Apple Admins](http://www.londonappleadmins.org.uk/events/6th-december-2018-meet-up-jamf/) | [Jamf's London Office](https://goo.gl/maps/FM5GFTE75o22) | 6 December 2018, 18:30 GMT | Free |
-| [Dutch macadmins meetup](https://forms.office.com/Pages/DesignPage.aspx?origin=shell#FormId=zrpvyrp8U02GgaBihPf_Rlr_gAkGtJlCv-tDymSeBa5UQ0NaQkNDVjNPU0kyUjBMR1M4UjBTU1IySS4u) | Willem de Kooning academy Rotterdam | 7 December 2018, 14:00 CET | free
-
+| [Dutch macadmins meetup](https://forms.office.com/Pages/DesignPage.aspx?origin=shell#FormId=zrpvyrp8U02GgaBihPf_Rlr_gAkGtJlCv-tDymSeBa5UQ0NaQkNDVjNPU0kyUjBMR1M4UjBTU1IySS4u) | Willem de Kooning academy Rotterdam | 7 December 2018, 14:00 CET | Free |
+| [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/245/san-diego-macadmins) | [Interlaced, Downtown SD](https://www.google.com/maps/place/Interlaced+-+San+Diego/@32.7151775,-117.170848,17z/data=!3m1!4b1!4m5!3m4!1s0x80dc0ecdef89d6cf:0x48b5c2b531ca2189!8m2!3d32.715173!4d-117.168654) | 12 December 2018, 7:00 p.m. PT | Free |
+| [MacSysAdmin Bier Zürich](https://macsysadmin.ch/) | [Café Gloria, Zürich, Switzerland](https://www.facebook.com/CafeGloria/) | 13 December 2018, 18:45 CET | Free |
+| [Univ of Utah Mac Admins](https://apple.lib.utah.edu) | [Marriott Library Room 1705a at University of Utah](https://apple.lib.utah.edu/mac-managers-meeting-directions/) | 19 December 2018, 11:00 a.m. MST | Free |
