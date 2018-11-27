@@ -20,7 +20,7 @@
 | [franken-macadmins meetup](https://macadmins.slack.com/messages/franken-macadmins) | [Gruener Brauhaus Fuerth](http://www.gruener-brauhaus.de) | 21 November 2018, 6:30 p.m. CET | free |
 | [Brisbane Apple Wranglers](https://meetup.com/Brisbane-Apple-Wranglers) | [Brisbane CBD Location](https://baw-nov-18.eventbrite.com.au) | 22 November 2018, 7:00 p.m. AEST | Free |
 | [Houston Apple Admins](https://houstonappleadmins.org) | [ChaiOne's new office in Greenway Plaza](https://goo.gl/maps/vyDDcBAKSAw) | 28 November 2018, 6:00 p.m. CT | Free |
-| [Twin Cities Mac Admins](https://www.mspmacadmins.org) | [Colle+McVoy](https://goo.gl/maps/ocsKfTCc4dp) | 5 December 2018, 5:30 CST | Free |
+| [Twin Cities Mac Admins](https://www.mspmacadmins.org/2018/11/meetup-december-5-2018/) | [Colle+McVoy](https://goo.gl/maps/ocsKfTCc4dp) | 5 December 2018, 5:30 CST | Free |
 | [London Apple Admins](http://www.londonappleadmins.org.uk/events/6th-december-2018-meet-up-jamf/) | [Jamf's London Office](https://goo.gl/maps/FM5GFTE75o22) | 6 December 2018, 18:30 GMT | Free |
 | [Dutch macadmins meetup](https://forms.office.com/Pages/DesignPage.aspx?origin=shell#FormId=zrpvyrp8U02GgaBihPf_Rlr_gAkGtJlCv-tDymSeBa5UQ0NaQkNDVjNPU0kyUjBMR1M4UjBTU1IySS4u) | Willem de Kooning academy Rotterdam | 7 December 2018, 14:00 CET | free
 
