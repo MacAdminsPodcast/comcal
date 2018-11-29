@@ -12,8 +12,6 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Houston Apple Admins](https://houstonappleadmins.org) | [ChaiOne's new office in Greenway Plaza](https://goo.gl/maps/vyDDcBAKSAw) | 28 November 2018, 6:00 p.m. CT | Free |
-| [MacAdmins NYC](https://www.eventbrite.com/e/macadmins-nyc-leveraging-saas-products-to-scale-securely-tickets-52486335041) | [Bread Finance, New York City](https://baw-nov-18.eventbrite.com.au) | 28 November 2018, 6:30 p.m. EST | Free |
 | [Greater Philadelphia Mac Admins](https://phillymacadmins.com) | [Walnut Street Apple Store](https://www.meetup.com/Greater-Philadelphia-Area-Mac-Admins/events/256576539/) | 6 December 2018, 6:00 P.M. EST | Free |
 | [London Apple Admins](http://www.londonappleadmins.org.uk/events/6th-december-2018-meet-up-jamf/) | [Jamf's London Office](https://goo.gl/maps/FM5GFTE75o22) | 6 December 2018, 18:30 GMT | Free |
 | [Dutch macadmins meetup](https://forms.office.com/Pages/DesignPage.aspx?origin=shell#FormId=zrpvyrp8U02GgaBihPf_Rlr_gAkGtJlCv-tDymSeBa5UQ0NaQkNDVjNPU0kyUjBMR1M4UjBTU1IySS4u) | Willem de Kooning academy Rotterdam | 7 December 2018, 14:00 CET | Free |
