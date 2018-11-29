@@ -12,8 +12,6 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Houston Apple Admins](https://houstonappleadmins.org) | [ChaiOne's new office in Greenway Plaza](https://goo.gl/maps/vyDDcBAKSAw) | 28 November 2018, 6:00 p.m. CT | Free |
-| [MacAdmins NYC](https://www.eventbrite.com/e/macadmins-nyc-leveraging-saas-products-to-scale-securely-tickets-52486335041) | [Bread Finance, New York City](https://baw-nov-18.eventbrite.com.au) | 28 November 2018, 6:30 p.m. EST | Free |
 | [Twin Cities Mac Admins](https://www.mspmacadmins.org/2018/11/meetup-december-5-2018/) | [Colle+McVoy](https://goo.gl/maps/ocsKfTCc4dp) | 5 December 2018, 5:30 CST | Free |
 | [Greater Philadelphia Mac Admins](https://phillymacadmins.com) | [Walnut Street Apple Store](https://www.meetup.com/Greater-Philadelphia-Area-Mac-Admins/events/256576539/) | 6 December 2018, 6:00 P.M. EST | Free |
 | [London Apple Admins](http://www.londonappleadmins.org.uk/events/6th-december-2018-meet-up-jamf/) | [Jamf's London Office](https://goo.gl/maps/FM5GFTE75o22) | 6 December 2018, 18:30 GMT | Free |
