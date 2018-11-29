@@ -12,6 +12,7 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
+| [Twin Cities Mac Admins](https://www.mspmacadmins.org/2018/11/meetup-december-5-2018/) | [Colle+McVoy](https://goo.gl/maps/ocsKfTCc4dp) | 5 December 2018, 5:30 CST | Free |
 | [Greater Philadelphia Mac Admins](https://phillymacadmins.com) | [Walnut Street Apple Store](https://www.meetup.com/Greater-Philadelphia-Area-Mac-Admins/events/256576539/) | 6 December 2018, 6:00 P.M. EST | Free |
 | [London Apple Admins](http://www.londonappleadmins.org.uk/events/6th-december-2018-meet-up-jamf/) | [Jamf's London Office](https://goo.gl/maps/FM5GFTE75o22) | 6 December 2018, 18:30 GMT | Free |
 | [Dutch macadmins meetup](https://forms.office.com/Pages/DesignPage.aspx?origin=shell#FormId=zrpvyrp8U02GgaBihPf_Rlr_gAkGtJlCv-tDymSeBa5UQ0NaQkNDVjNPU0kyUjBMR1M4UjBTU1IySS4u) | Willem de Kooning academy Rotterdam | 7 December 2018, 14:00 CET | Free |
