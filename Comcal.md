@@ -6,7 +6,7 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Mac Admin & Developer Conference, UK](https://macad.uk) | London, United Kingdom | 26-27 March, 2019 | TBD | 
+| [Mac Admin & Developer Conference, UK](https://macad.uk) | London, United Kingdom | 26-27 March, 2019 | [£420 for First 50](https://macad.us13.list-manage.com/track/click?u=664a2be73e2feba9f4c1a95ee&id=011d83e939&e=a5a8c75bf1)  | 
 
 ##### Meetups
 
