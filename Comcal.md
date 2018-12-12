@@ -15,4 +15,5 @@
 | [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/245/san-diego-macadmins) | [Interlaced, Downtown SD](https://www.google.com/maps/place/Interlaced+-+San+Diego/@32.7151775,-117.170848,17z/data=!3m1!4b1!4m5!3m4!1s0x80dc0ecdef89d6cf:0x48b5c2b531ca2189!8m2!3d32.715173!4d-117.168654) | 12 December 2018, 7:00 p.m. PT | Free |
 | [MacSysAdmin Bier Zürich](https://macsysadmin.ch/) | [Café Gloria, Zürich, Switzerland](https://www.facebook.com/CafeGloria/) | 13 December 2018, 18:45 CET | Free |
 | [Univ of Utah Mac Admins](https://apple.lib.utah.edu) | [Marriott Library Room 1705a at University of Utah](https://apple.lib.utah.edu/mac-managers-meeting-directions/) | 19 December 2018, 11:00 a.m. MST | Free |
-[Austin Apple Admins](https://austinappleadmins.org) | [The Home Depot Austin Technology Center North](https://goo.gl/maps/9znfJquAaxG2) | 19 December 2018, 6:30 p.m. CST | Free |
+| [Austin Apple Admins](https://austinappleadmins.org) | [The Home Depot Austin Technology Center North](https://goo.gl/maps/9znfJquAaxG2) | 19 December 2018, 6:30 p.m. CST | Free |
+| [MacDeployment Meetup](http://macdeployment.ca) | [1419 9 Ave SE, rear entrance](https://maps.apple.com/?address=1419%209%20Ave%20SE,%20Calgary%20AB%20T2G%200T4,%20Canada) | 23 January 2019, 6:30 p.m. MT | Free |
