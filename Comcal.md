@@ -6,7 +6,8 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Mac Admin & Developer Conference, UK](https://macad.uk) | London, United Kingdom | 26-27 March, 2019 | [£420 for First 50](https://macad.us13.list-manage.com/track/click?u=664a2be73e2feba9f4c1a95ee&id=011d83e939&e=a5a8c75bf1)  | 
+| [Mac Admin & Developer Conference, UK](https://macad.uk) | London, United Kingdom | 26-27 March 2019 | [£420 for First 50](https://macad.us13.list-manage.com/track/click?u=664a2be73e2feba9f4c1a95ee&id=011d83e939&e=a5a8c75bf1) | 
+| [Jamf Nation User Conference](https://www.jamf.com/events/jamf-nation-user-conference/2019/) | Minneapolis, MN | 12-14 November 2019 | [$699 First Bird Rate ($599 for EDU) through 23 Jan 2019](https://www.cvent.com/events/jamf-nation-user-conference-2019/registration-7d9e9c5d913c4c38b847a10de4a84e25.aspx?r=6d9625bb-9bd9-457e-b2d2-0f8dc474dc42&refid=001&fqp=true) |
 
 ##### Meetups
 
