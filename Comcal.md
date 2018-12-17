@@ -1,24 +1,20 @@
 #### Mac Admins Podcast Community Calendar, Sponsored by Watchman Monitoring
 
 [<img src="https://podcast.macadmins.org/wp-content/uploads/2017/06/Watchman-Monitoring-logo-blue.png" alt="" width="500" height="115" />](https://www.watchmanmonitoring.com)
- 
+
 ##### Conference Sites
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Jamf Nation User Conference](https://www.jamf.com/events/jamf-nation-user-conference/2018/) | Minneapolis, Minnesota | October 23-25 | US$799 |
-| [Objective by the Sea](https://objectivebythesea.com) | Wailea, HI | November 3-4 | [Patreon-Backer](https://objectivebythesea.com/attending.html) |
-| [MacTech Conference](https://conference.mactech.com) | Los Angeles, CA | November 6-9 | US$899 |
+| [Mac Admin & Developer Conference, UK](https://macad.uk) | London, United Kingdom | 26-27 March 2019 | [£420 for First 50](https://macad.us13.list-manage.com/track/click?u=664a2be73e2feba9f4c1a95ee&id=011d83e939&e=a5a8c75bf1) | 
+| [Jamf Nation User Conference](https://www.jamf.com/events/jamf-nation-user-conference/2019/) | Minneapolis, MN | 12-14 November 2019 | [$699 First Bird Rate ($599 for EDU) through 23 Jan 2019](https://www.cvent.com/events/jamf-nation-user-conference-2019/registration-7d9e9c5d913c4c38b847a10de4a84e25.aspx?r=6d9625bb-9bd9-457e-b2d2-0f8dc474dc42&refid=001&fqp=true) |
 
 ##### Meetups
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [MacDMV](https://macdmv.com) | [Union Station Mario Kart VR](https://goo.gl/maps/Ksee85MbQyj) | 17 October 2018, 6pm | Free |
-| [Seattle Apple Admins](https://www.meetup.com/Seattle-Apple-Admins/events/) | [The Giddens School, Seattle](https://goo.gl/maps/pD2DiAgLiaG2) | 18 October 2018, 6pm | Free |
-| [Greater Philadelphia Mac Admins](https://www.meetup.com/Greater-Philadelphia-Area-Mac-Admins/events/255486488/) | [Apple Store Walnut Street, Philadelphia](https://www.apple.com/retail/walnutstreet/) | 18 October 2018, 6pm | Free |
-| [Twin Cities Mac Admins and Mac Admins Podcast Party at JNUC!](https://www.eventbrite.com/e/twin-cities-mac-admins-and-mac-admins-podcast-party-at-jnuc-tickets-51288651738) | [Finnegan's Brew Co.](https://goo.gl/maps/c72kWzS1HvG2), Minneapolis, MN | 23 October 2018, 6:30pm | Free |
-| [MacDeployment Meetup](http://macdeployment.ca) | [Market Mall Apple Store, Calgary AB Canada](https://maps.apple.com/?address=3625%20Shaganappi%20Trail%20NW\,%20Calgary%20AB%20T3A%200E2\,%20Canada&auid=3320776729563026883&ll=51.082992\,-114.154370&lsp=9902&q=Apple%20Market%20Mall) | 24 October 2018, 6:30 p.m. | Free |
-| [Atlanta Apple Admins](https://www.meetup.com/Atlanta-Apple-Admins/) | [CNN Center, Atlanta, GA](http://maps.apple.com/?address=115,Centenial+Olympic+Park+DR+NW,Atlanta,Georgia) | 8 November 2018, 7pm | Free |
-| [Toronto Apple Admins](https://torontomacadminsgroup.github.io/) | [Globe and Mail Centre, Toronto, ON Canada](https://goo.gl/maps/57GRKLNha4N2) | 15 November 2018, 6pm | Free |
-| [Dallas Apple Admins](https://dallasappleadmins.org/) | [Bottle Rocket Studios](https://goo.gl/maps/F956UvYNby22) | 15 November 2018, 6:30pm | Free |
+| [Univ of Utah Mac Admins](https://apple.lib.utah.edu) | [Marriott Library Room 1705a at University of Utah](https://apple.lib.utah.edu/mac-managers-meeting-directions/) | 19 December 2018, 11:00 a.m. MT | Free |
+| [Austin Apple Admins](https://austinappleadmins.org) | [The Home Depot Austin Technology Center North](https://goo.gl/maps/9znfJquAaxG2) | 19 December 2018, 6:30 p.m. CT | Free |
+[San Diego MacAdmins](https://www.jamf.com/jamf-nation/events/user-groups/250/san-diego-macadmins) | [Interlaced, 655 W Broadway, Suite 950, San Diego, CA. 92101](https://www.google.com/maps/place/Interlaced+-+San+Diego/@32.7151775,-117.170848,17z/data=!3m1!4b1!4m5!3m4!1s0x80dc0ecdef89d6cf:0x48b5c2b531ca2189!8m2!3d32.715173!4d-117.168654) | 9 January 2019, 7:00 p.m. PT | Free |
+| [Austin Apple Admins](https://austinappleadmins.org) New Year Happy Hour - [RSVP here](https://www.eventbrite.com/e/new-year-happy-hour-at-black-star-co-op-tickets-53815960988) | [Black Star Co-op](https://blackstar.coop/) | 16 January 2019, 5:00 p.m. CT | Free |
+| [MacDeployment Meetup](http://macdeployment.ca) | [1419 9 Ave SE, rear entrance](https://maps.apple.com/?address=1419%209%20Ave%20SE,%20Calgary%20AB%20T2G%200T4,%20Canada) | 23 January 2019, 6:30 p.m. MT | Free |
