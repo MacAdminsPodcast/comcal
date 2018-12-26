@@ -9,6 +9,8 @@
 | [MacSysdamin](https://macsysadmin.se) | Göteborg, Sweden | October 2-5 | US$1400 |
 | [Jamf Nation User Conference](https://www.jamf.com/events/jamf-nation-user-conference/2018/) | Minneapolis, Minnesota | October 23-25 | US$799 |
 | [MacTech Conference](https://conference.mactech.com) | Los Angeles, CA | November 6-9 | US$899 |
+| [MacDevOps:YVR](https://mdoyvr.com) | Vancouver, Canada | June 12-14, 2019 | [$195CAD education, $295CAD for independents, $395CAD for corporate Early bird until January 11, 2019](https://mdoyvr.com/buy-tickets/)
+
 |  |  |  |  |
 |  |  |  |  |
 
