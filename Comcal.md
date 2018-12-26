@@ -1,30 +1,22 @@
 #### Mac Admins Podcast Community Calendar, Sponsored by Watchman Monitoring
 
 [<img src="https://podcast.macadmins.org/wp-content/uploads/2017/06/Watchman-Monitoring-logo-blue.png" alt="" width="500" height="115" />](https://www.watchmanmonitoring.com)
- 
+
 ##### Conference Sites
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [MacSysdamin](https://macsysadmin.se) | Göteborg, Sweden | October 2-5 | US$1400 |
-| [Jamf Nation User Conference](https://www.jamf.com/events/jamf-nation-user-conference/2018/) | Minneapolis, Minnesota | October 23-25 | US$799 |
-| [MacTech Conference](https://conference.mactech.com) | Los Angeles, CA | November 6-9 | US$899 |
-| [MacDevOps:YVR](https://mdoyvr.com) | Vancouver, Canada | June 12-14, 2019 | [$195CAD education, $295CAD for independents, $395CAD for corporate Early bird until January 11, 2019](https://mdoyvr.com/buy-tickets/)
-
-|  |  |  |  |
-|  |  |  |  |
-
+| [Mac Admin & Developer Conference, UK](https://macad.uk) | London, United Kingdom | 26-27 March 2019 | [£420 for First 50](https://macad.us13.list-manage.com/track/click?u=664a2be73e2feba9f4c1a95ee&id=011d83e939&e=a5a8c75bf1) | 
+| [Jamf Nation User Conference](https://www.jamf.com/events/jamf-nation-user-conference/2019/) | Minneapolis, MN | 12-14 November 2019 | [$699 First Bird Rate ($599 for EDU) through 23 Jan 2019](https://www.cvent.com/events/jamf-nation-user-conference-2019/registration-7d9e9c5d913c4c38b847a10de4a84e25.aspx?r=6d9625bb-9bd9-457e-b2d2-0f8dc474dc42&refid=001&fqp=true) |
+| [MacDevOps:YVR](https://mdoyvr.com) | Vancouver, Canada | June 12-14, 2019 | [$195CAD education, $295CAD for independents, $395CAD for corporate Early bird until January 11, 2019](https://mdoyvr.com/buy-tickets/) |
 
 ##### Meetups
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Greater Philly MacAdmins](https://www.meetup.com/Greater-Philadelphia-Area-Mac-Admins/events/252547963/) | [Saint Joseph's University](https://www.google.com/maps/search/?api=1&query=5600+City+Ave%2C+Philadelphia%2C+PA%2C+19107%2C+us) | July 18th at 6pm | Free |
-| [Utah Mac Admins](https://apple.lib.utah.edu/july-2018-macadmins-meeting/) | Marriott Library at Univ of Utah | July 18th at 11am MDT | Free |
-| [Austin Apple Admins](https://austinappleadmins.org/2018-07-16/july-pinballz-social/) | [Pinballz](https://www.pinballzarcade.com) | July 19th at 7pm | Free |
-| [Dallas Apple Admins](http://dallasappleadmins.org/2018-07-05/July-2018-Meetup/) | [Bottle Rocket Studios](https://goo.gl/maps/Adkz1ZPehxF2) | July 19th at 6:30pm | Free |
-| [MacDevOps:YVR Meetup](https://mdoyvr.com/) | [Steamworks Brewing, 375 Water St
-Vancouver, Canada](https://maps.apple.com/?address=375%20Water%20St,%20Vancouver%20BC%20V6B,%20Canada&auid=6039258864358745267&ll=49.284997,-123.110870&lsp=9902&q=Steamworks%20Brewing%20Company)| July 25th at 4:30-6PM | Free |
-| [MacDeployment Meetup](https://macdeployment.ca) | [1013 17th Ave SW in Calgary](https://www.google.com.au/maps/place/1013+17+Ave+SW,+Calgary,+AB+T2T+0A7,+Canada/@51.0375563,-114.0872247,17z/data=!3m1!4b1!4m5!3m4!1s0x53717020597cffe9:0xb50fb5730412dedb!8m2!3d51.0375529!4d-114.085036) | July 25th at 6:30pm | Free |
-| [Sydney Mac Admins](http://meetu.ps/e/FxG5Q/nPQr8/f) | [Jamf — Sydney](https://goo.gl/maps/12mZnFntcnw) | July 26th at 6pm | Free |
-| [London Apple Admins](http://www.londonappleadmins.org.uk/events/26th-july-2018-meet-up-gocardless/) | [Go Cardless](https://www.google.com.au/maps/place/65+Goswell+Rd,+London+EC1V+0BB,+UK/data=!4m2!3m1!1s0x48761b574ecd2a67:0xf7d5f1d29126f0f2?sa=X&ved=0ahUKEwjSiZqa5oHcAhVKgrwKHX8kBbsQ8gEIJjAA) | July 26th at 6:30pm | Free |
+| [San Diego MacAdmins](https://www.jamf.com/jamf-nation/events/user-groups/250/san-diego-macadmins) | [Interlaced, 655 W Broadway, Suite 950, San Diego, CA. 92101](https://www.google.com/maps/place/Interlaced+-+San+Diego/@32.7151775,-117.170848,17z/data=!3m1!4b1!4m5!3m4!1s0x80dc0ecdef89d6cf:0x48b5c2b531ca2189!8m2!3d32.715173!4d-117.168654) | 9 January 2019, 7:00 p.m. PT | Free |
+| [Univ of Utah Mac Admins](https://apple.lib.utah.edu) | [Marriott Library Room 1705a at University of Utah](https://apple.lib.utah.edu/mac-managers-meeting-directions/) | 16 January 2019, 11:00 a.m. MT | Free |
+| [Austin Apple Admins](https://austinappleadmins.org) New Year Happy Hour - [RSVP here](https://www.eventbrite.com/e/new-year-happy-hour-at-black-star-co-op-tickets-53815960988) | [Black Star Co-op](https://blackstar.coop/) | 16 January 2019, 5:00 p.m. CT | Free |
+| [Dallas Apple Admins](https://dallasappleadmins.org/) | [Bottle Rocket Studios](https://goo.gl/maps/F956UvYNby22) | 17 January 2019, 6:30 p.m. CT | Free |
+| [MacDeployment Meetup](http://macdeployment.ca) | [1419 9 Ave SE, rear entrance](https://maps.apple.com/?address=1419%209%20Ave%20SE,%20Calgary%20AB%20T2G%200T4,%20Canada) | 23 January 2019, 6:30 p.m. MT | Free |
+| [Houston Apple Admins](https://houstonappleadmins.org/January2019-Meetup/) | [FlightAware](https://goo.gl/maps/XQ3wqBddPUP2) | 23 January 2019, 5:30 p.m. CT | Free |
