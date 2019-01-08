@@ -15,7 +15,6 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-
 | [San Diego MacAdmins](https://www.jamf.com/jamf-nation/events/user-groups/250/san-diego-macadmins) | [Interlaced, 655 W Broadway, Suite 950, San Diego, CA. 92101](https://www.google.com/maps/place/Interlaced+-+San+Diego/@32.7151775,-117.170848,17z/data=!3m1!4b1!4m5!3m4!1s0x80dc0ecdef89d6cf:0x48b5c2b531ca2189!8m2!3d32.715173!4d-117.168654) | 9 January 2019, 7:00 p.m. PT | Free |
 | [Apple Admins of the Carolinas](http://meetu.ps/c/4b4KS/Gr321/f) | [Barista Craft Coffee, Charlotte, NC](https://www.baristacraftcoffee.com) | 10 January 2019, 7:00 p.m. ET | Free |
 | [Univ of Utah Mac Admins](https://apple.lib.utah.edu) | [Marriott Library Room 1705a at University of Utah](https://apple.lib.utah.edu/mac-managers-meeting-directions/) | 16 January 2019, 11:00 a.m. MT | Free |
