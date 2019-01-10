@@ -20,6 +20,6 @@
 | [Univ of Utah Mac Admins](https://apple.lib.utah.edu) | [Marriott Library Room 1705a at University of Utah](https://apple.lib.utah.edu/mac-managers-meeting-directions/) | 16 January 2019, 11:00 a.m. MT | Free |
 | [Austin Apple Admins](https://austinappleadmins.org) New Year Happy Hour - [RSVP here](https://www.eventbrite.com/e/new-year-happy-hour-at-black-star-co-op-tickets-53815960988) | [Black Star Co-op](https://blackstar.coop/) | 16 January 2019, 5:00 p.m. CT | Free |
 | [Dallas Apple Admins](https://dallasappleadmins.org/) | [Bottle Rocket Studios](https://goo.gl/maps/F956UvYNby22) | 17 January 2019, 6:30 p.m. CT | Free |
-| [Apple Admins of Seattle and the Great Northwest](https://www.meetup.com/Seattle-Apple-Admins/events/256562662/) | [Chef Software, 619 Western Ave # 18, Seattle, WA 98104](https://goo.gl/maps/ipNZV7LmJur) | 17 January 2019, 6:00 p.m. PT | Free |
+| [Apple Admins of Seattle and the Great Northwest](https://www.meetup.com/Seattle-Apple-Admins/events/256562662/) | [Chef Software, 619 Western Ave, Suite 400, Seattle, WA 98104](https://goo.gl/maps/ipNZV7LmJur) | 17 January 2019, 6:00 p.m. PT | Free |
 | [MacDeployment Meetup](http://macdeployment.ca) | [1419 9 Ave SE, rear entrance](https://maps.apple.com/?address=1419%209%20Ave%20SE,%20Calgary%20AB%20T2G%200T4,%20Canada) | 23 January 2019, 6:30 p.m. MT | Free |
 | [Houston Apple Admins](https://houstonappleadmins.org/January2019-Meetup/) | [FlightAware](https://goo.gl/maps/XQ3wqBddPUP2) | 23 January 2019, 5:30 p.m. CT | Free |
