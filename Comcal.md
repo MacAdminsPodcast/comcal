@@ -22,3 +22,4 @@
 | [Dallas Apple Admins](https://dallasappleadmins.org/) | [Bottle Rocket Studios](https://goo.gl/maps/F956UvYNby22) | 17 January 2019, 6:30 p.m. CT | Free |
 | [MacDeployment Meetup](http://macdeployment.ca) | [1419 9 Ave SE, rear entrance](https://maps.apple.com/?address=1419%209%20Ave%20SE,%20Calgary%20AB%20T2G%200T4,%20Canada) | 23 January 2019, 6:30 p.m. MT | Free |
 | [Houston Apple Admins](https://houstonappleadmins.org/January2019-Meetup/) | [FlightAware](https://goo.gl/maps/XQ3wqBddPUP2) | 23 January 2019, 5:30 p.m. CT | Free |
+| [Apple Admins of Seattle and the Great Northwest](https://www.meetup.com/Seattle-Apple-Admins/events/256562662/) | [Chef Software, 619 Western Ave # 18, Seattle, WA 98104](https://goo.gl/maps/ipNZV7LmJur) | 17 January 2019, 6:00 p.m. PT | Free |
