@@ -23,4 +23,5 @@
 | [Apple Admins of Seattle and the Great Northwest](https://www.meetup.com/Seattle-Apple-Admins/events/256562662/) | [Chef Software, 619 Western Ave, Suite 400, Seattle, WA 98104](https://goo.gl/maps/ipNZV7LmJur) | 17 January 2019, 6:00 p.m. PT | Free |
 | [MacDeployment Meetup](http://macdeployment.ca) | [1419 9 Ave SE, rear entrance](https://maps.apple.com/?address=1419%209%20Ave%20SE,%20Calgary%20AB%20T2G%200T4,%20Canada) | 23 January 2019, 6:30 p.m. MT | Free |
 | [Houston Apple Admins](https://houstonappleadmins.org/January2019-Meetup/) | [FlightAware](https://goo.gl/maps/XQ3wqBddPUP2) | 23 January 2019, 5:30 p.m. CT | Free |
+| [Macbrained DC: MacDMV](https://macdmv.com) | [Moreland's Tavern, DC](https://morelandstavern.com) | 2 February 2019, 2:00 p.m. ET | Free |
 | [Toronto Mac Admins](https://www.eventbrite.com/e/toronto-macbrained-for-all-mac-admins-mdm-tickets-55045286935) | [Globe and Mail Centre](https://goo.gl/maps/vmqYdnb6teD2) | 28 February 2019, 6:00 p.m. ET | Free |
