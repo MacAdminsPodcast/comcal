@@ -13,7 +13,7 @@ For more information, or for help performing a pull request, please email [podca
 To adhere to the table format of this page, please add your meetup line to the [Comcal.md](https://github.com/tbridge/macadminscomcal/blob/master/Comcal.md) file in the following format:
 
 ```
-[Meetup Group Name](http://RSVP_or_meetup.link) | [Location](https://map_or_venue.link) | Month Date at time | Cost |
+| [Meetup Group Name](http://RSVP_or_meetup.link) | [Location](https://map_or_venue.link) | Month Date at time | Cost |
 ```
 To ensure consistency and clarity of times across timezones, please use the following format for the time of the meetup:
 

@@ -6,16 +6,22 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Mac Admin & Developer Conference, UK](https://macad.uk) | London, United Kingdom | 26-27 March, 2019 | TBD | 
+| [Addigy Partner Summit](https://www.addigy.com/summit) | Miami, Florida | 6-8 March 2019 | $500 |
+| [Mac Admin & Developer Conference, UK](https://macad.uk) | London, United Kingdom | 26-27 March 2019 | [£420 for First 50](https://macad.us13.list-manage.com/track/click?u=664a2be73e2feba9f4c1a95ee&id=011d83e939&e=a5a8c75bf1) | 
+| [MacDevOps:YVR](https://mdoyvr.com) | Vancouver, Canada | June 12-14, 2019 | [$195CAD education, $295CAD for independents, $395CAD for corporate Early bird until January 11, 2019](https://mdoyvr.com/buy-tickets/) |
+| [Jamf Nation User Conference](https://www.jamf.com/events/jamf-nation-user-conference/2019/) | Minneapolis, MN | 12-14 November 2019 | [$699 First Bird Rate ($599 for EDU) through 23 Jan 2019](https://www.cvent.com/events/jamf-nation-user-conference-2019/registration-7d9e9c5d913c4c38b847a10de4a84e25.aspx?r=6d9625bb-9bd9-457e-b2d2-0f8dc474dc42&refid=001&fqp=true) |
 
 ##### Meetups
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Houston Apple Admins](https://houstonappleadmins.org) | [ChaiOne's new office in Greenway Plaza](https://goo.gl/maps/vyDDcBAKSAw) | 28 November 2018, 6:00 p.m. CT | Free |
-| [MacAdmins NYC](https://www.eventbrite.com/e/macadmins-nyc-leveraging-saas-products-to-scale-securely-tickets-52486335041) | [Bread Finance, New York City](https://baw-nov-18.eventbrite.com.au) | 28 November 2018, 6:30 p.m. EST | Free |
-| [Greater Philadelphia Mac Admins](https://phillymacadmins.com) | [Walnut Street Apple Store](https://www.meetup.com/Greater-Philadelphia-Area-Mac-Admins/events/256576539/) | 6 December 2018, 6:00 P.M. EST | Free |
-| [London Apple Admins](http://www.londonappleadmins.org.uk/events/6th-december-2018-meet-up-jamf/) | [Jamf's London Office](https://goo.gl/maps/FM5GFTE75o22) | 6 December 2018, 18:30 GMT | Free |
-| [Dutch macadmins meetup](https://forms.office.com/Pages/DesignPage.aspx?origin=shell#FormId=zrpvyrp8U02GgaBihPf_Rlr_gAkGtJlCv-tDymSeBa5UQ0NaQkNDVjNPU0kyUjBMR1M4UjBTU1IySS4u) | Willem de Kooning academy Rotterdam | 7 December 2018, 14:00 CET | Free |
-| [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/245/san-diego-macadmins) | [Interlaced, Downtown SD](https://www.google.com/maps/place/Interlaced+-+San+Diego/@32.7151775,-117.170848,17z/data=!3m1!4b1!4m5!3m4!1s0x80dc0ecdef89d6cf:0x48b5c2b531ca2189!8m2!3d32.715173!4d-117.168654) | 12 December 2018, 7:00 p.m. PT | Free |
-| [MacSysAdmin Bier Zürich](https://macsysadmin.ch/) | [Café Gloria, Zürich, Switzerland](https://www.facebook.com/CafeGloria/) | 13 December 2018, 18:45 CET | Free |
+| [San Diego MacAdmins](https://www.jamf.com/jamf-nation/events/user-groups/250/san-diego-macadmins) | [Karl Strauss Brewing Company Downtown, 1157 Columbia St, San Diego, California 92101](https://www.google.com/maps/dir//Karl+Strauss+Brewing+Company,+1157+Columbia+St,+San+Diego,+CA+92101/@32.7174178,-117.2372797,12z/) | 9 January 2019, 6:00 p.m. PT | Free |
+| [Apple Admins of the Carolinas](http://meetu.ps/c/4b4KS/Gr321/f) | [Barista Craft Coffee, Charlotte, NC](https://www.baristacraftcoffee.com) | 10 January 2019, 7:00 p.m. ET | Free |
+| [Univ of Utah Mac Admins](https://apple.lib.utah.edu) | [Marriott Library Room 1705a at University of Utah](https://apple.lib.utah.edu/mac-managers-meeting-directions/) | 16 January 2019, 11:00 a.m. MT | Free |
+| [Austin Apple Admins](https://austinappleadmins.org) New Year Happy Hour - [RSVP here](https://www.eventbrite.com/e/new-year-happy-hour-at-black-star-co-op-tickets-53815960988) | [Black Star Co-op](https://blackstar.coop/) | 16 January 2019, 5:00 p.m. CT | Free |
+| [Dallas Apple Admins](https://dallasappleadmins.org/) | [Bottle Rocket Studios](https://goo.gl/maps/F956UvYNby22) | 17 January 2019, 6:30 p.m. CT | Free |
+| [Apple Admins of Seattle and the Great Northwest](https://www.meetup.com/Seattle-Apple-Admins/events/256562662/) | [Chef Software, 619 Western Ave, Suite 400, Seattle, WA 98104](https://goo.gl/maps/ipNZV7LmJur) | 17 January 2019, 6:00 p.m. PT | Free |
+| [MacDeployment Meetup](http://macdeployment.ca) | [1419 9 Ave SE, rear entrance](https://maps.apple.com/?address=1419%209%20Ave%20SE,%20Calgary%20AB%20T2G%200T4,%20Canada) | 23 January 2019, 6:30 p.m. MT | Free |
+| [Houston Apple Admins](https://houstonappleadmins.org/January2019-Meetup/) | [FlightAware](https://goo.gl/maps/XQ3wqBddPUP2) | 23 January 2019, 5:30 p.m. CT | Free |
+| [Macbrained DC: MacDMV](https://macdmv.com) | [Moreland's Tavern, DC](https://morelandstavern.com) | 2 February 2019, 2:00 p.m. ET | Free |
+| [Toronto Mac Admins](https://www.eventbrite.com/e/toronto-macbrained-for-all-mac-admins-mdm-tickets-55045286935) | [Globe and Mail Centre](https://goo.gl/maps/vmqYdnb6teD2) | 28 February 2019, 6:00 p.m. ET | Free |
