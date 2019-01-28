@@ -16,5 +16,7 @@
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
 | [Macbrained DC: MacDMV](https://macdmv.com) | [Moreland's Tavern, DC](https://morelandstavern.com) | 2 February 2019, 2:00 p.m. ET | Free |
+| [University of Utah Mac Admins](https://apple.lib.utah.edu) | Marriott Library, University of Utah | 20 February 2019, 11:00 a.m. MT | Free |
 | [MacSysAdmins Switzerland](https://macsysadmin.ch/) | [Cafe Gloria, Zürich](https://www.facebook.com/CafeGloria/) | 21 February 2019, 18:45 p.m. CET | Free |
+| Seattle Apple Admins | Location TBA, Downtown Seattle | 22 February 2019, Time TBA | Free |
 | [Toronto Mac Admins](https://www.eventbrite.com/e/toronto-macbrained-for-all-mac-admins-mdm-tickets-55045286935) | [Globe and Mail Centre](https://goo.gl/maps/vmqYdnb6teD2) | 28 February 2019, 6:00 p.m. ET | Free |
