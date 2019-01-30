@@ -16,7 +16,7 @@
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
 | [Macbrained DC: MacDMV](https://macdmv.com) | [Moreland's Tavern, DC](https://morelandstavern.com) | 2 February 2019, 2:00 p.m. ET | Free |
-[San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/245/san-diego-macadmins) | [Interlaced, Downtown SD](https://www.google.com/maps/place/Interlaced+-+San+Diego/@32.7151775,-117.170848,17z/data=!3m1!4b1!4m5!3m4!1s0x80dc0ecdef89d6cf:0x48b5c2b531ca2189!8m2!3d32.715173!4d-117.168654) | 13 February 2018, 6:00 p.m. PT | Free |
+| [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/245/san-diego-macadmins) | [Interlaced, Downtown SD](https://www.google.com/maps/place/Interlaced+-+San+Diego/@32.7151775,-117.170848,17z/data=!3m1!4b1!4m5!3m4!1s0x80dc0ecdef89d6cf:0x48b5c2b531ca2189!8m2!3d32.715173!4d-117.168654) | 13 February 2018, 6:00 p.m. PT | Free |
 | [University of Utah Mac Admins](https://apple.lib.utah.edu) | Marriott Library, University of Utah | 20 February 2019, 11:00 a.m. MT | Free |
 | [MacSysAdmins Switzerland](https://macsysadmin.ch/) | [Cafe Gloria, Zürich](https://www.facebook.com/CafeGloria/) | 21 February 2019, 18:45 p.m. CET | Free |
 | Seattle Apple Admins | Location TBA, Downtown Seattle | 22 February 2019, Time TBA | Free |
