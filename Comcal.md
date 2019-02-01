@@ -7,7 +7,7 @@
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
 | [Addigy Partner Summit](https://www.addigy.com/summit) | Miami, Florida | 6-8 March 2019 | $500 |
-| [Mac Admin & Developer Conference, UK](https://macad.uk) | London, United Kingdom | 26-27 March 2019 | [£420 for First 50](https://macad.us13.list-manage.com/track/click?u=664a2be73e2feba9f4c1a95ee&id=011d83e939&e=a5a8c75bf1) | 
+| [Mac Admin & Developer Conference, UK](https://macad.uk) | London, United Kingdom | 26-27 March 2019 | [£597 General Adminission](https://www.macad.uk/register/) | 
 | [MacDevOps:YVR](https://mdoyvr.com) | Vancouver, Canada | June 12-14, 2019 | [$195CAD education, $295CAD for independents, $395CAD for corporate Early bird until January 11, 2019](https://mdoyvr.com/buy-tickets/) |
 | [Jamf Nation User Conference](https://www.jamf.com/events/jamf-nation-user-conference/2019/) | Minneapolis, MN | 12-14 November 2019 | [$699 First Bird Rate ($599 for EDU) through 23 Jan 2019](https://www.cvent.com/events/jamf-nation-user-conference-2019/registration-7d9e9c5d913c4c38b847a10de4a84e25.aspx?r=6d9625bb-9bd9-457e-b2d2-0f8dc474dc42&refid=001&fqp=true) |
 
@@ -16,6 +16,7 @@
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
 | [Macbrained DC: MacDMV](https://macdmv.com) | [Moreland's Tavern, DC](https://morelandstavern.com) | 2 February 2019, 2:00 p.m. ET | Free |
+| [Los Angeles Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/256/los-angeles-mac-admins-meet-up) | [LumaForge HQ, Burbank](https://goo.gl/maps/ESFpFcsdDWr) | 7 February 2019, 5:30 p.m. PT | Free |
 | [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/245/san-diego-macadmins) | [Interlaced, Downtown SD](https://www.google.com/maps/place/Interlaced+-+San+Diego/@32.7151775,-117.170848,17z/data=!3m1!4b1!4m5!3m4!1s0x80dc0ecdef89d6cf:0x48b5c2b531ca2189!8m2!3d32.715173!4d-117.168654) | 13 February 2018, 6:00 p.m. PT | Free |
 | [University of Utah Mac Admins](https://apple.lib.utah.edu) | Marriott Library, University of Utah | 20 February 2019, 11:00 a.m. MT | Free |
 | [Twin Cities Mac Admins](https://twitter.com/MspMacAdmns) | [CBX](https://goo.gl/maps/P23uCyczSkT2) | 21 February 2019, 5:00 p.m. CT | Free |
