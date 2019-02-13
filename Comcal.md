@@ -21,7 +21,7 @@
 | [MacDeployment Meetup](http://macdeployment.ca) | [805 10 Ave SW, #200](https://maps.apple.com/?address=805%2010%20Ave%20SW,%20Calgary%20AB,%20Canada) | 20 February 2019, 6:30 p.m. MT | Free |
 | [Twin Cities Mac Admins](https://twitter.com/MspMacAdmns) | [CBX](https://goo.gl/maps/P23uCyczSkT2) | 21 February 2019, 5:00 p.m. CT | Free |
 | [MacSysAdmins Switzerland](https://macsysadmin.ch/) | [Cafe Gloria, Zürich](https://www.facebook.com/CafeGloria/) | 21 February 2019, 18:45 p.m. CET | Free |
-| Seattle Apple Admins | Location TBA, Downtown Seattle | 21 February 2019, Time TBA | Free |
+| [Seattle Apple Admins](https://www.meetup.com/Seattle-Apple-Admins/events/258912864/) | Dropbox Seattle | 21 February 2019, 5:30 p.m. PT | Free |
 |  [Atlanta Apple Admins](https://www.meetup.com/Atlanta-Apple-Admins/events/258904190/) |  [SweetWater Brewery](https://goo.gl/X7xfow)  | 21 February 2019, 6:00 p.m. ET  |  Free |
 | [Toronto Mac Admins](https://www.eventbrite.com/e/toronto-macbrained-for-all-mac-admins-mdm-tickets-55045286935) | [Globe and Mail Centre](https://goo.gl/maps/vmqYdnb6teD2) | 28 February 2019, 6:00 p.m. ET | Free |
 | [Houston Apple Admins](https://houstonappleadmins.org/March2019-Meetup/) | [Envision Design](https://goo.gl/maps/WD9UL2rdYpz) | 27 March 2019, 5:30 p.m. CT | Free |
