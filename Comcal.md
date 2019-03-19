@@ -17,6 +17,9 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
+| [Austin Apple Admins](https://www.facebook.com/events/779628515753892/) | Citizen Eatery | 20 March 2019, 6:30 p.m. CT | Free|
 | [Dallas Apple Admins](http://dallasappleadmins.org/2019-02-23/March-2019-Meetup/) | [Bottle Rocket Studios](https://goo.gl/maps/cBi9jkhTSYH2) | 21 March 2019, 6:30 p.m. CT | Free |
+| [Apple Admins of Seattle and the Greater Northwest](https://www.meetup.com/Seattle-Apple-Admins/events/259881537/) | [Splunk Seattle](https://www.google.com/maps/search/?api=1&query=47.616825%2C-122.329620) | 21 March 2019, 6:00 p.m. | Free | 
+| [Apple Admins of PDX](http://meetu.ps/e/GsDkQ/1sjgs/f) | 100 Market St SW, Portland | 26 March 2019, 5:30 p.m. PT | Free |
 | [Houston Apple Admins](https://houstonappleadmins.org/March2019-Meetup/) | [Envision Design](https://goo.gl/maps/WD9UL2rdYpz) | 27 March 2019, 5:30 p.m. CT | Free |
 | [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/266/san-diego-macadmins) | [Interlaced, Downtown SD](https://www.google.com/maps/place/Interlaced+-+San+Diego/@32.7151775,-117.170848,17z/data=!3m1!4b1!4m5!3m4!1s0x80dc0ecdef89d6cf:0x48b5c2b531ca2189!8m2!3d32.715173!4d-117.168654) | 10 April 2019, 6:00 p.m. PT | Free |
