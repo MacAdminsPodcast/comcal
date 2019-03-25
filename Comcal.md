@@ -9,7 +9,7 @@
 | [Mac Admin & Developer Conference, UK](https://macad.uk) | London, United Kingdom | 26-27 March 2019 | [£597 General Adminission](https://www.macad.uk/register/) |
 | [ACEs Conference](https://acesconf.com) | Kansas City, MO | 5-6 June 2019 | [$699 (Basic Event Ticket)](https://acesconf.com) |
 | [MacDeployment Conference](http://macdeployment.ca) | Calgary, Canada | 10-11 June 2019 | TBA |
-| [MacDevOps:YVR](https://mdoyvr.com) | Vancouver, Canada | June 12-14, 2019 | [$275CAD - $495CAD](https://mdoyvr.com/buy-tickets/) |
+| [MacDevOps:YVR](https://mdoyvr.com) | Vancouver, Canada | 12-14 June, 2019 | [$275CAD - $495CAD](https://mdoyvr.com/buy-tickets/) |
 | [X World](https://auc.edu.au/xworld/about/) | Sydney, NSW, Australia | 26-28 June 2019 | $699 AUD Early Bird |
 | [MacAdmins Conference](https://macadmins.psu.edu) | State College, PA | 12-19 July 2019 | [Call For Presenters Open](http://macadmins.psu.edu/conference/submit-proposals/) |
 | [Jamf Nation User Conference](https://www.jamf.com/events/jamf-nation-user-conference/2019/) | Minneapolis, MN | 12-14 November 2019 | [$799 Early Bird Rate ($699 for EDU)](https://www.cvent.com/events/jamf-nation-user-conference-2019/registration-7d9e9c5d913c4c38b847a10de4a84e25.aspx) |
