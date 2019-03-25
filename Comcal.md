@@ -10,6 +10,7 @@
 | [ACEs Conference](https://acesconf.com) | Kansas City, MO | 5-6 June 2019 | [$699 (Basic Event Ticket)](https://acesconf.com) |
 | [MacDeployment Conference](http://macdeployment.ca) | Calgary, Canada | 10-11 June 2019 | TBA |
 | [MacDevOps:YVR](https://mdoyvr.com) | Vancouver, Canada | June 12-14, 2019 | [$275CAD - $495CAD](https://mdoyvr.com/buy-tickets/) |
+| [X World](https://auc.edu.au/xworld/about/) | Sydney, NSW, Australia | 26-28 June 2019 | $699 AUD Early Bird |
 | [MacAdmins Conference](https://macadmins.psu.edu) | State College, PA | 12-19 July 2019 | [Call For Presenters Open](http://macadmins.psu.edu/conference/submit-proposals/) |
 | [Jamf Nation User Conference](https://www.jamf.com/events/jamf-nation-user-conference/2019/) | Minneapolis, MN | 12-14 November 2019 | [$799 Early Bird Rate ($699 for EDU)](https://www.cvent.com/events/jamf-nation-user-conference-2019/registration-7d9e9c5d913c4c38b847a10de4a84e25.aspx) |
 
@@ -18,9 +19,6 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Austin Apple Admins](https://www.facebook.com/events/779628515753892/) | Citizen Eatery | 20 March 2019, 6:30 p.m. CT | Free|
-| [Dallas Apple Admins](http://dallasappleadmins.org/2019-02-23/March-2019-Meetup/) | [Bottle Rocket Studios](https://goo.gl/maps/cBi9jkhTSYH2) | 21 March 2019, 6:30 p.m. CT | Free |
-| [Apple Admins of Seattle and the Greater Northwest](https://www.meetup.com/Seattle-Apple-Admins/events/259881537/) | [Splunk Seattle](https://www.google.com/maps/search/?api=1&query=47.616825%2C-122.329620) | 21 March 2019, 6:00 p.m. | Free | 
 | [Apple Admins of PDX](http://meetu.ps/e/GsDkQ/1sjgs/f) | 100 Market St SW, Portland | 26 March 2019, 5:30 p.m. PT | Free |
 | [Houston Apple Admins](https://houstonappleadmins.org/March2019-Meetup/) | [Envision Design](https://goo.gl/maps/WD9UL2rdYpz) | 27 March 2019, 5:30 p.m. CT | Free |
 | [MacDeployment Meetup](http://macdeployment.ca) | [805 10 Ave SW, #200](https://maps.apple.com/?address=805%2010%20Ave%20SW,%20Calgary%20AB,%20Canada) | 28 March 2019, 6:30 p.m. MT | Free |
