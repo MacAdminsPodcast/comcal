@@ -19,7 +19,7 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Apple Admins of PDX](http://meetu.ps/e/GsDkQ/1sjgs/f) | 100 Market St SW, Portland | 26 March 2019, 5:30 p.m. PT | Free |
-| [Houston Apple Admins](https://houstonappleadmins.org/March2019-Meetup/) | [Envision Design](https://goo.gl/maps/WD9UL2rdYpz) | 27 March 2019, 5:30 p.m. CT | Free |
-| [MacDeployment Meetup](http://macdeployment.ca) | [805 10 Ave SW, #200](https://maps.apple.com/?address=805%2010%20Ave%20SW,%20Calgary%20AB,%20Canada) | 28 March 2019, 6:30 p.m. MT | Free |
 | [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/266/san-diego-macadmins) | [Interlaced, Downtown SD](https://www.google.com/maps/place/Interlaced+-+San+Diego/@32.7151775,-117.170848,17z/data=!3m1!4b1!4m5!3m4!1s0x80dc0ecdef89d6cf:0x48b5c2b531ca2189!8m2!3d32.715173!4d-117.168654) | 10 April 2019, 6:00 p.m. PT | Free |
+| [University of Utah Apple Admins](https://apple.lib.utah.edu) | University of Utah Marriott Library | 17 April 2019, 11:00 a.m. MT | Free |
+| [Apple Admins of the Pacific Northwest](https://www.meetup.com/Seattle-Apple-Admins/) | Location TBA | 18 April 2019, 6:00 p.m. PT | Free |
+
