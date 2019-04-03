@@ -22,4 +22,5 @@
 | [University of Utah Apple Admins](https://apple.lib.utah.edu) | University of Utah Marriott Library | 17 April 2019, 11:00 a.m. MT | Free |
 | [Austin Apple Admins](https://austinappleadmins.org) | [Cloudflare](https://goo.gl/maps/97wZbPf1upJ2) | 17 April 2019, 6:30 p.m. CST | Free |
 | [Apple Admins of the Pacific Northwest](https://www.meetup.com/Seattle-Apple-Admins/) | Location TBA | 18 April 2019, 6:00 p.m. PT | Free |
+| [NL Macadmins](https://datumprikker.nl/afspraak/beschikbaarheid/p8xpe239u4djajfn) | Location Macnify - Badhoevedorp | 12 April 2019, 3:00 p.m. GMT+1 | Free |
 
