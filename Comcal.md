@@ -20,5 +20,6 @@
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
 | [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/276/san-diego-macadmins) | [Interlaced, Downtown SD](https://www.google.com/maps/place/Interlaced+-+San+Diego/@32.7151775,-117.170848,17z/data=!3m1!4b1!4m5!3m4!1s0x80dc0ecdef89d6cf:0x48b5c2b531ca2189!8m2!3d32.715173!4d-117.168654) | 8 May 2019, 6:00 p.m. PT | Free |
+| [MacBrained Toronto](https://www.eventbrite.com/e/toronto-macbrained-for-all-admins-cloud-infrastructure-and-identity-management-tickets-60528087138) | LoyaltyOne Atrium | 20 June 2019, 6:00 p.m. ET | Free |
 
 
