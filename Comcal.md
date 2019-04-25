@@ -7,10 +7,10 @@
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
 | [ACEs Conference](https://acesconf.com) | Kansas City, MO | 5-6 June 2019 | [$699 (Basic Event Ticket)](https://acesconf.com) |
-| [MacDeployment Conference](http://macdeployment.ca) | Calgary, Canada | 10-11 June 2019 | TBA |
+| [MacDeployment Conference](http://macdeployment.ca) | Calgary, Canada | 10-11 June 2019 | [CAD$249 Early Bird until 10 May](http://macdeployment.ca) |
 | [MacDevOps:YVR](https://mdoyvr.com) | Vancouver, Canada | 12-14 June, 2019 | [$275CAD - $495CAD](https://mdoyvr.com/buy-tickets/) |
 | [X World](https://auc.edu.au/xworld/about/) | Sydney, NSW, Australia | 26-28 June 2019 | $699 AUD Early Bird |
-| [MacAdmins Conference](https://macadmins.psu.edu) | State College, PA | 9-12 July 2019 | [Call For Presenters Open](http://macadmins.psu.edu/conference/submit-proposals/) |
+| [MacAdmins Conference](https://macadmins.psu.edu) | State College, PA | 9-12 July 2019 | [$649 Early Bird until 13 May](http://www.cvent.com/events/2019-macadmins-conference-at-penn-state/event-summary-a861fd3e6e4a4837924577becde201cf.aspx) |
 | [MacTech Conference](https://conference.mactech.com) | Los Angeles, CA | 15-18 October 2019 | [$999 Early Bird til 28 June](https://forms.mactech.com/fillsurvey.php?sid=676&rid=None) |
 | [Jamf Nation User Conference](https://www.jamf.com/events/jamf-nation-user-conference/2019/) | Minneapolis, MN | 12-14 November 2019 | [$799 Early Bird Rate ($699 for EDU)](https://www.cvent.com/events/jamf-nation-user-conference-2019/registration-7d9e9c5d913c4c38b847a10de4a84e25.aspx) |
 
