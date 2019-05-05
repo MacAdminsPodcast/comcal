@@ -6,6 +6,7 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
+| [Japanese Privacy Law Mini-Conference](https://docs.google.com/document/d/1C_arz7C336XTInSJguAKE9v0lZdyTl-oiz0E8O9sLDc/edit?usp=sharing) | Higashi Kurume-shi, Tokyo, Japan | 21 May 2019 | [¥1,000 aimed toward education institutions in Japan](https://forms.gle/6Tehc3rGE9jwAvZKA) |
 | [ACEs Conference](https://acesconf.com) | Kansas City, MO | 5-6 June 2019 | [$699 (Basic Event Ticket)](https://acesconf.com) |
 | [MacDeployment Conference](http://macdeployment.ca) | Calgary, Canada | 10-11 June 2019 | [CAD$249 Early Bird until 10 May](http://macdeployment.ca) |
 | [MacDevOps:YVR](https://mdoyvr.com) | Vancouver, Canada | 12-14 June, 2019 | [$275CAD - $495CAD](https://mdoyvr.com/buy-tickets/) |
