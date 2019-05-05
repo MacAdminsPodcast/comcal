@@ -22,6 +22,5 @@
 | [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/276/san-diego-macadmins) | [Karl Strauss, Downtown SD](https://goo.gl/maps/7n5nfAMHy3cF3hhK9) | 8 May 2019, 6:00 p.m. PT | Free |
 | [MacDeployment Meetup](http://macdeployment.ca) | New Central Library, Ideas Lab - [800 3 St SE, Calgary, Canada](https://maps.apple.com/?address=800%203%20St%20SE\,%20Calgary%20AB%20T2G%202E7\,%20Canada&ll=51.045529\,-114.055010&q=800%203%20St%20SE) | 8 May 2019, 6:00 p.m. MT | Free |
 | Edmonton Mac Admins Meetup | United Nurses of Alberta - [11150 Jasper Ave NW, Edmonton, Canada](https://maps.apple.com/?address=11160%20Jasper%20Ave%20NW\,%20Edmonton%20AB%20T5K%200L1\,%20Canada&auid=10073145845432081954&ll=53.541127\,-113.513437&lsp=9902&q=United%20Nurses%20Of%20Alberta) | 9 May 2019, 6:30 p.m. MT | Free |
+| [Houston Apple Admins](https://houstonappleadmins.org/May2019-Meetup/) | Saint Arnold Brewing Company Beer Garden | 15 May 2019, 5:30 p.m. CT | Free |
 | [MacBrained Toronto](https://www.eventbrite.com/e/toronto-macbrained-for-all-admins-cloud-infrastructure-and-identity-management-tickets-60528087138) | LoyaltyOne Atrium | 20 June 2019, 6:00 p.m. ET | Free |
-
-
