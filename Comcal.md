@@ -26,3 +26,4 @@
 | [Houston Apple Admins](https://houstonappleadmins.org/May2019-Meetup/) | Saint Arnold Brewing Company Beer Garden | 15 May 2019, 5:30 p.m. CT | Free |
 | [Melbourne Apple Admins](https://melbourneappleadmins.org.au) | University of Melbourne, Parkville campus | 22 May 2019, 6:30pm AEST | Free |
 | [MacBrained Toronto](https://www.eventbrite.com/e/toronto-macbrained-for-all-admins-cloud-infrastructure-and-identity-management-tickets-60528087138) | LoyaltyOne Atrium | 20 June 2019, 6:00 p.m. ET | Free |
+| [Atlanta Apple Admins] (https://www.meetup.com/Atlanta-Apple-Admins/events/261236043) | BrassTap at the Perimeter | 16 May 2019, 6:00 p.m. ET | Free |
