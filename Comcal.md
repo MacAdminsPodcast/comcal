@@ -20,6 +20,7 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
+| [Sydney Mac Admins](http://meetu.ps/e/GKpsD/nPQr8/f) | [Harts Pub, The Rocks](https://hartspub.com.au) | 15 May 2019, 5:00 p.m. AEST | Free
 | [Houston Apple Admins](https://houstonappleadmins.org/May2019-Meetup/) | Saint Arnold Brewing Company Beer Garden | 15 May 2019, 5:30 p.m. CT | Free |
 | [Carolinas Apple Admins](https://www.meetup.com/Mac-Admins-of-the-Carolinas/) | Barista Craft Coffee | 15 May 2019, 7:00 p.m. ET | Free |
 | [Seattle Apple Admins](https://www.meetup.com/Seattle-Apple-Admins/) | [Institute of Health Metrics and Evaluations](healthdata.org) | 16 May 2019, 6:00 p.m. PT | Free |
