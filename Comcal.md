@@ -6,18 +6,22 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Addigy Partner Summit](https://www.addigy.com/summit) | Miami, Florida | 6-8 March 2019 | $500 |
-| [Mac Admin & Developer Conference, UK](https://macad.uk) | London, United Kingdom | 26-27 March 2019 | [£597 General Adminission](https://www.macad.uk/register/) |
-| [MacDevOps:YVR](https://mdoyvr.com) | Vancouver, Canada | June 12-14, 2019 | [$275CAD - $495CAD](https://mdoyvr.com/buy-tickets/) |
-| [Mac Admins at Penn State](https://macadmins.psu.edu) | State College, PA | 12-19 July 2019 | [Call For Presenters Open](http://macadmins.psu.edu/conference/submit-proposals/) |
+| [Japanese Privacy Law Mini-Conference](https://docs.google.com/document/d/1C_arz7C336XTInSJguAKE9v0lZdyTl-oiz0E8O9sLDc/edit?usp=sharing) | Higashi Kurume-shi, Tokyo, Japan | 21 May 2019 | [¥1,000 aimed toward education institutions in Japan](https://forms.gle/6Tehc3rGE9jwAvZKA) |
+| [ACEs Conference](https://acesconf.com) | Kansas City, MO | 5-6 June 2019 | [$699 (Basic Event Ticket)](https://acesconf.com) |
+| [MacDeployment Conference](http://macdeployment.ca) | Calgary, Canada | 10-11 June 2019 | [CAD$249 Early Bird until 10 May](http://macdeployment.ca) |
+| [MacDevOps:YVR](https://mdoyvr.com) | Vancouver, Canada | 12-14 June, 2019 | [$275CAD - $495CAD](https://mdoyvr.com/buy-tickets/) |
+| [X World](https://auc.edu.au/xworld/about/) | Sydney, NSW, Australia | 26-28 June 2019 | $699 AUD Early Bird |
+| [MacAdmins Conference](https://macadmins.psu.edu) | State College, PA | 9-12 July 2019 | [$649 Early Bird until 13 May](http://www.cvent.com/events/2019-macadmins-conference-at-penn-state/event-summary-a861fd3e6e4a4837924577becde201cf.aspx) |
+| [MacTech Conference](https://conference.mactech.com) | Los Angeles, CA | 15-18 October 2019 | [$999 Early Bird til 28 June](https://forms.mactech.com/fillsurvey.php?sid=676&rid=None) |
 | [Jamf Nation User Conference](https://www.jamf.com/events/jamf-nation-user-conference/2019/) | Minneapolis, MN | 12-14 November 2019 | [$799 Early Bird Rate ($699 for EDU)](https://www.cvent.com/events/jamf-nation-user-conference-2019/registration-7d9e9c5d913c4c38b847a10de4a84e25.aspx) |
+
 
 ##### Meetups
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Toronto Mac Admins](https://www.eventbrite.com/e/toronto-macbrained-for-all-mac-admins-mdm-tickets-55045286935) | [Globe and Mail Centre](https://goo.gl/maps/vmqYdnb6teD2) | 28 February 2019, 6:00 p.m. ET | Free |
-| [St. Louis Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/261/st-louis-mac-admins-first-meetup) | [Hotel Saint Louis, Autograph Collection](https://goo.gl/maps/SsS6nTm81us) | 7 March 2019, 6:00 p.m. CT | Free |
-| [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/262/san-diego-macadmins) | [Interlaced, Downtown SD](https://www.google.com/maps/place/Interlaced+-+San+Diego/@32.7151775,-117.170848,17z/data=!3m1!4b1!4m5!3m4!1s0x80dc0ecdef89d6cf:0x48b5c2b531ca2189!8m2!3d32.715173!4d-117.168654) | 13 March 2019, 6:00 p.m. PT | Free |
-| [Dallas Apple Admins](http://dallasappleadmins.org/2019-02-23/March-2019-Meetup/) | [Bottle Rocket Studios](https://goo.gl/maps/cBi9jkhTSYH2) | 21 March 2019, 6:30 p.m. CT | Free |
-| [Houston Apple Admins](https://houstonappleadmins.org/March2019-Meetup/) | [Envision Design](https://goo.gl/maps/WD9UL2rdYpz) | 27 March 2019, 5:30 p.m. CT | Free |
+| [Houston Apple Admins](https://houstonappleadmins.org/May2019-Meetup/) | Saint Arnold Brewing Company Beer Garden | 15 May 2019, 5:30 p.m. CT | Free |
+| [Carolinas Apple Admins](https://www.meetup.com/Mac-Admins-of-the-Carolinas/) | Barista Craft Coffee | 15 May 2019, 7:00 p.m. ET | Free |
+| [Seattle Apple Admins](https://www.meetup.com/Seattle-Apple-Admins/) | [Institute of Health Metrics and Evaluations](healthdata.org) | 16 May 2019, 6:00 p.m. PT | Free |
+| [Melbourne Apple Admins](https://melbourneappleadmins.org.au) | University of Melbourne, Parkville campus | 22 May 2019, 6:30pm AEST | Free |
+| [MacBrained Toronto](https://www.eventbrite.com/e/toronto-macbrained-for-all-admins-cloud-infrastructure-and-identity-management-tickets-60528087138) | LoyaltyOne Atrium | 20 June 2019, 6:00 p.m. ET | Free |
