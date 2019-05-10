@@ -23,5 +23,6 @@
 | [Houston Apple Admins](https://houstonappleadmins.org/May2019-Meetup/) | Saint Arnold Brewing Company Beer Garden | 15 May 2019, 5:30 p.m. CT | Free |
 | [Carolinas Apple Admins](https://www.meetup.com/Mac-Admins-of-the-Carolinas/) | Barista Craft Coffee | 15 May 2019, 7:00 p.m. ET | Free |
 | [Seattle Apple Admins](https://www.meetup.com/Seattle-Apple-Admins/) | [Institute of Health Metrics and Evaluations](healthdata.org) | 16 May 2019, 6:00 p.m. PT | Free |
+| [Dallas Apple Admins](https://www.eventbrite.com/e/dallas-apple-admin-meet-up-may-2019-tickets-61694539027) | Bottle Rocket Studios, Addison, TX | 16 May 2019, 6:30 p.m. CT | Free |
 | [Melbourne Apple Admins](https://melbourneappleadmins.org.au) | University of Melbourne, Parkville campus | 22 May 2019, 6:30pm AEST | Free |
 | [MacBrained Toronto](https://www.eventbrite.com/e/toronto-macbrained-for-all-admins-cloud-infrastructure-and-identity-management-tickets-60528087138) | LoyaltyOne Atrium | 20 June 2019, 6:00 p.m. ET | Free |
