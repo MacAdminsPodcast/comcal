@@ -6,7 +6,6 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Japanese Privacy Law Mini-Conference](https://docs.google.com/document/d/1C_arz7C336XTInSJguAKE9v0lZdyTl-oiz0E8O9sLDc/edit?usp=sharing) | Higashi Kurume-shi, Tokyo, Japan | 21 May 2019 | [¥1,000 aimed toward education institutions in Japan](https://forms.gle/6Tehc3rGE9jwAvZKA) |
 | [ACEs Conference](https://acesconf.com) | Kansas City, MO | 5-6 June 2019 | [$699 (Basic Event Ticket)](https://acesconf.com) |
 | [MacDeployment Conference](http://macdeployment.ca) | Calgary, Canada | 10-11 June 2019 | [CAD$249 Early Bird until 10 May](http://macdeployment.ca) |
 | [MacDevOps:YVR](https://mdoyvr.com) | Vancouver, Canada | 12-14 June, 2019 | [$275CAD - $495CAD](https://mdoyvr.com/buy-tickets/) |
@@ -20,7 +19,6 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Melbourne Apple Admins](https://melbourneappleadmins.org.au) | University of Melbourne, Parkville campus | 22 May 2019, 6:30pm AEST | Free |
 | [Los Angeles Mac Meetup](https://www.jamf.com/jamf-nation/events/user-groups/281/los-angeles-mac-admins-meet-up) | [Open Drives, Culver City](https://goo.gl/maps/Vvpu4Mnq7XdtU19UA) | 29 May 2019, 5:30 p.m. PT | Free |
 | [Atlanta Apple Admins](https://atlappleadmins.com) | [MacStadium](http://maps.apple.com/?address=1100,White+St+SW,Atlanta,Georgia,30310) | 13 June 2019, 6:00 p.m. ET | Free |
 | [London Apple Admins](https://londonappleadmins.org.uk/2019/05/23/20th-june-2019-meet-up-cloudflare/) | [Cloudflare](https://www.cloudflare.com/en-gb/) | 20 June 2019, 6.30 p.m. GMT+1 (BST) | Free |
