@@ -19,10 +19,10 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Los Angeles Mac Meetup](https://www.jamf.com/jamf-nation/events/user-groups/281/los-angeles-mac-admins-meet-up) | [Open Drives, Culver City](https://goo.gl/maps/Vvpu4Mnq7XdtU19UA) | 29 May 2019, 5:30 p.m. PT | Free |
 | [Atlanta Apple Admins](https://atlappleadmins.com) |
 | [London Apple Admins - WWDC Keynote Meet Up](https://londonappleadmins.org.uk/2019/05/24/3rd-june-2019-wwdc-stream-meet-up-capital-one/) | [Capital One] | 03 June 2019, 5.30 p.m. GMT+1 (BST) | Free |
-[MacStadium](http://maps.apple.com/?address=1100,White+St+SW,Atlanta,Georgia,30310) | 13 June 2019, 6:00 p.m. ET | Free |
+| [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/283/san-diego-macadmins) | [Karl Strauss, Downtown SD](https://goo.gl/maps/7n5nfAMHy3cF3hhK9) | 11 June 2019, 6:00 p.m. PT | Free |
+| [MacStadium](http://maps.apple.com/?address=1100,White+St+SW,Atlanta,Georgia,30310) | 13 June 2019, 6:00 p.m. ET | Free |
 | [London Apple Admins](https://londonappleadmins.org.uk/2019/05/23/20th-june-2019-meet-up-cloudflare/) | [Cloudflare](https://www.cloudflare.com/en-gb/) | 20 June 2019, 6.30 p.m. GMT+1 (BST) | Free |
 | [MacBrained Toronto](https://www.eventbrite.com/e/toronto-macbrained-for-all-admins-cloud-infrastructure-and-identity-management-tickets-60528087138) | LoyaltyOne Atrium | 20 June 2019, 6:00 p.m. ET | Free |
 | [Houston Apple Admins](https://houstonappleadmins.org) | TBD | 17 July 2019, 5:30 p.m. CT | Free |
