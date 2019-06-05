@@ -6,7 +6,6 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [ACEs Conference](https://acesconf.com) | Kansas City, MO | 5-6 June 2019 | [$699 (Basic Event Ticket)](https://acesconf.com) |
 | [MacDeployment Conference](http://macdeployment.ca) | Calgary, Canada | 10-11 June 2019 | [CAD$249 Early Bird until 10 May](http://macdeployment.ca) |
 | [MacDevOps:YVR](https://mdoyvr.com) | Vancouver, Canada | 12-14 June, 2019 | [$275CAD - $495CAD](https://mdoyvr.com/buy-tickets/) |
 | [X World](https://auc.edu.au/xworld/about/) | Sydney, NSW, Australia | 26-28 June 2019 | $699 AUD Early Bird |
@@ -19,7 +18,6 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [London Apple Admins - WWDC Keynote Meet Up](https://londonappleadmins.org.uk/2019/05/24/3rd-june-2019-wwdc-stream-meet-up-capital-one/) | [Capital One] | 03 June 2019, 5.30 p.m. GMT+1 (BST) | Free |
 | [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/283/san-diego-macadmins) | [Karl Strauss, Downtown SD](https://goo.gl/maps/7n5nfAMHy3cF3hhK9) | 11 June 2019, 6:00 p.m. PT | Free |
 | [Mac DMV](https://www.macdmv.com/macdmv-happy-hour-at-walters-bar/) | [Walter's Bar](https://goo.gl/maps/HVjnJa8rAmgkXpN26) | 12 June 2019, 6:00 p.m. EDT | Free |
 | [Atlanta Apple Admins](https://atlappleadmins.com) | [MacStadium](http://maps.apple.com/?address=1100,White+St+SW,Atlanta,Georgia,30310) | 13 June 2019, 6:00 p.m. ET | Free |
