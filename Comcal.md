@@ -18,7 +18,6 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/283/san-diego-macadmins) | [Karl Strauss, Downtown SD](https://goo.gl/maps/7n5nfAMHy3cF3hhK9) | 11 June 2019, 6:00 p.m. PT | Free |
 | [Mac DMV](https://www.macdmv.com/macdmv-happy-hour-at-walters-bar/) | [Walter's Bar](https://goo.gl/maps/HVjnJa8rAmgkXpN26) | 12 June 2019, 6:00 p.m. EDT | Free |
 | [Atlanta Apple Admins](https://atlappleadmins.com) | [MacStadium](http://maps.apple.com/?address=1100,White+St+SW,Atlanta,Georgia,30310) | 13 June 2019, 6:00 p.m. ET | Free |
 | [Austin Apple Admins](https://austinappleadmins.org) | [The Home Depot Austin Technology Center](https://goo.gl/maps/AQ1NJvvzuDC2) | 19 June 2019, 6:00 p.m. CT | Free |
