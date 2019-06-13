@@ -6,7 +6,6 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [MacDeployment Conference](http://macdeployment.ca) | Calgary, Canada | 10-11 June 2019 | [CAD$249 Early Bird until 10 May](http://macdeployment.ca) |
 | [MacDevOps:YVR](https://mdoyvr.com) | Vancouver, Canada | 12-14 June, 2019 | [$275CAD - $495CAD](https://mdoyvr.com/buy-tickets/) |
 | [X World](https://auc.edu.au/xworld/about/) | Sydney, NSW, Australia | 26-28 June 2019 | $699 AUD Early Bird |
 | [MacAdmins Conference](https://macadmins.psu.edu) | State College, PA | 9-12 July 2019 | [$649 Early Bird until 13 May](http://www.cvent.com/events/2019-macadmins-conference-at-penn-state/event-summary-a861fd3e6e4a4837924577becde201cf.aspx) |
@@ -18,7 +17,6 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Mac DMV](https://www.macdmv.com/macdmv-happy-hour-at-walters-bar/) | [Walter's Bar](https://goo.gl/maps/HVjnJa8rAmgkXpN26) | 12 June 2019, 6:00 p.m. EDT | Free |
 | [Atlanta Apple Admins](https://atlappleadmins.com) | [MacStadium](http://maps.apple.com/?address=1100,White+St+SW,Atlanta,Georgia,30310) | 13 June 2019, 6:00 p.m. ET | Free |
 | [Austin Apple Admins](https://austinappleadmins.org) | [The Home Depot Austin Technology Center](https://goo.gl/maps/AQ1NJvvzuDC2) | 19 June 2019, 6:00 p.m. CT | Free |
 | [London Apple Admins](https://londonappleadmins.org.uk/2019/05/23/20th-june-2019-meet-up-cloudflare/) | [Cloudflare](https://www.cloudflare.com/en-gb/) | 20 June 2019, 6.30 p.m. GMT+1 (BST) | Free |
