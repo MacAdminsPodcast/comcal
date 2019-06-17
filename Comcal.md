@@ -23,6 +23,7 @@
 | [Apple Admins of Seattle and the Great Northwest](https://www.meetup.com/Seattle-Apple-Admins) | [Accolade](https://www.accolade.com) | 20 June 2019, 6.00 p.m. PT | Free |
 | [MacBrained Toronto](https://www.eventbrite.com/e/toronto-macbrained-for-all-admins-cloud-infrastructure-and-identity-management-tickets-60528087138) | LoyaltyOne Atrium | 20 June 2019, 6:00 p.m. ET | Free |
 | [NYC Jamf User Group](https://www.jamf.com/jamf-nation/events/user-groups/284/nyc-metro-jamf-user-group-june-2019-meeting) | [Apple NYC Office](https://maps.apple.com/?address=Apple%20Inc.,%20100%205th%20Ave,%20New%20York,%20NY%2010011,%20United%20States&auid=5865647463717811209&ll=40.737050,-73.993311&lsp=9902&q=New%20York%20City%201&_ext=ChoKBQgEEOIBCgQIBRADCgUIBhCKAQoECAoQABImKWjXc3nEXURAMdJqV4fzf1LAOeasmdXqXkRAQRZ2Qkkxf1LAUAM%3D&t=m) | 25 June 2019, 4:30 p.m. ET | Free, Must Register |
+| [Apple Admins of the Carolinas](https://www.meetup.com/Mac-Admins-of-the-Carolinas/) | [Barista Craft Coffee](https://www.baristacraftcoffee.com) | 1 July 2019, 7:00 p.m. ET | Free |
 | [Houston Apple Admins](https://houstonappleadmins.org) | TBD | 17 July 2019, 5:30 p.m. CT | Free |
 | [Apple Admins of Seattle and the Great Northwest](https://www.meetup.com/Seattle-Apple-Admins) | [Fred Hutch](https://www.fredhutch.org/en.html) | 18 July 2019, 6.00 p.m. PT | Free |
 | [Apple Admins of Seattle and the Great Northwest](https://www.meetup.com/Seattle-Apple-Admins) | TBD | 15 August 2019, 6.00 p.m. PT | Free |
