@@ -8,6 +8,7 @@
 |------------|----------|-------|------|
 | [X World](https://auc.edu.au/xworld/about/) | Sydney, NSW, Australia | 26-28 June 2019 | $699 AUD Early Bird |
 | [MacAdmins Conference](https://macadmins.psu.edu) | State College, PA | 9-12 July 2019 | [$649 Early Bird until 13 May](http://www.cvent.com/events/2019-macadmins-conference-at-penn-state/event-summary-a861fd3e6e4a4837924577becde201cf.aspx) |
+| [MacSysAdmin](http://macsysadmin.se/) | Göteborg, Sweden | 1-4 October 2019 | [11700 SEK](https://www.macsysadmin.se/register/register.php) |
 | [MacTech Conference](https://conference.mactech.com) | Los Angeles, CA | 15-18 October 2019 | [$999 Early Bird til 28 June](https://forms.mactech.com/fillsurvey.php?sid=676&rid=None) |
 | [Jamf Nation User Conference](https://www.jamf.com/events/jamf-nation-user-conference/2019/) | Minneapolis, MN | 12-14 November 2019 | [$799 Early Bird Rate ($699 for EDU)](https://www.cvent.com/events/jamf-nation-user-conference-2019/registration-7d9e9c5d913c4c38b847a10de4a84e25.aspx) |
 
