@@ -6,7 +6,6 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [X World](https://auc.edu.au/xworld/about/) | Sydney, NSW, Australia | 26-28 June 2019 | $699 AUD Early Bird |
 | [MacAdmins Conference](https://macadmins.psu.edu) | State College, PA | 9-12 July 2019 | [$649 Early Bird until 13 May](http://www.cvent.com/events/2019-macadmins-conference-at-penn-state/event-summary-a861fd3e6e4a4837924577becde201cf.aspx) |
 | [MacSysAdmin](http://macsysadmin.se/) | Göteborg, Sweden | 1-4 October 2019 | [11700 SEK](https://www.macsysadmin.se/register/register.php) |
 | [MacTech Conference](https://conference.mactech.com) | Los Angeles, CA | 15-18 October 2019 | [$999 Early Bird til 28 June](https://forms.mactech.com/fillsurvey.php?sid=676&rid=None) |
@@ -17,8 +16,6 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [NYC Jamf User Group](https://www.jamf.com/jamf-nation/events/user-groups/284/nyc-metro-jamf-user-group-june-2019-meeting) | [Apple NYC Office](https://maps.apple.com/?address=Apple%20Inc.,%20100%205th%20Ave,%20New%20York,%20NY%2010011,%20United%20States&auid=5865647463717811209&ll=40.737050,-73.993311&lsp=9902&q=New%20York%20City%201&_ext=ChoKBQgEEOIBCgQIBRADCgUIBhCKAQoECAoQABImKWjXc3nEXURAMdJqV4fzf1LAOeasmdXqXkRAQRZ2Qkkxf1LAUAM%3D&t=m) | 25 June 2019, 4:30 p.m. ET | Free, Must Register |
-| [Los Angeles Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/290/los-angeles-mac-admins-meet-up) | [VICE, 589 Venice Blvd, Venice, CA 90291](https://goo.gl/maps/48L2uE91X6L3G6v5A) | 26 June 2019, 6:30 p.m. PT | Free |
 | [Apple Admins of the Carolinas](https://www.meetup.com/Mac-Admins-of-the-Carolinas/) | [Barista Craft Coffee](https://www.baristacraftcoffee.com) | 1 July 2019, 7:00 p.m. ET | Free |
 | [Houston Apple Admins](https://houstonappleadmins.org/July2019-Meetup/) | [Saint Arnold Beer Garden](https://goo.gl/maps/J3KutKEH63c19SS5A) | 17 July 2019, 5:30 p.m. CT | Free |
 | [Apple Admins of Seattle and the Great Northwest](https://www.meetup.com/Seattle-Apple-Admins) | [Fred Hutch](https://www.fredhutch.org/en.html) | 18 July 2019, 6.00 p.m. PT | Free |
