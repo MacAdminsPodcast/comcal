@@ -18,5 +18,6 @@
 |------------|----------|-------|------|
 | [Apple Admins of Seattle and the Great Northwest](https://www.meetup.com/Seattle-Apple-Admins) | [Fred Hutch](https://www.fredhutch.org/en.html) | 18 July 2019, 6.00 p.m. PT | Free |
 | [Los Angeles Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/293/los-angeles-mac-admins-meet-up) | [Broadcom, 15101 Alton Pkwy, Irvine, CA 92618](https://goo.gl/maps/344ovxaqBuiudmkf7) | 24 July 2019, 5:00 p.m. PT | Free |
+| [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/296/san-diego-macadmins) | [UC San Diego Health](https://goo.gl/maps/88NxcyfGWfjrkmTS6) | 06 August 2019, 6:00 p.m. PT | Free |
 | [Apple Admins of Seattle and the Great Northwest](https://www.meetup.com/Seattle-Apple-Admins) | TBD | 15 August 2019, 6.00 p.m. PT | Free |
 | [Apple Admins of Seattle and the Great Northwest](https://www.meetup.com/Seattle-Apple-Admins) | TBD | 19 September 2019, 6.00 p.m. PT | Free |
