@@ -17,7 +17,7 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Los Angeles Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/293/los-angeles-mac-admins-meet-up) | [Broadcom, 15101 Alton Pkwy, Irvine, CA 92618](https://goo.gl/maps/344ovxaqBuiudmkf7) | 24 July 2019, 5:00 p.m. PT | Free |
+| [Dutch Mac Admins](https://www.eventbrite.com/e/opening-pro-academy-tickets-67223161285) | [Pro Academy Training Center, Amsterdam](https://goo.gl/maps/Sb3gH2ghSpXi3XwY8) | 06 August 2019, 14:30 CEST | Free |
 | [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/296/san-diego-macadmins) | [UC San Diego Health](https://goo.gl/maps/88NxcyfGWfjrkmTS6) | 06 August 2019, 6:00 p.m. PT | Free |
 | [Apple Admins of Seattle and the Great Northwest](https://www.meetup.com/Seattle-Apple-Admins) | TBD | 15 August 2019, 6.00 p.m. PT | Free |
 | [Houston Apple Admins](https://houstonappleadmins.org/Sept2019-Meetup/) | [FlightAware](https://goo.gl/maps/XQ3wqBddPUP2) | 18 September 2019, 5:30 p.m. CT | Free |
