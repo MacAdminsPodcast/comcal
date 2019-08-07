@@ -17,7 +17,6 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Atlanta Apple Admins](https://www.meetup.com/Atlanta-Apple-Admins/events/263779603/) | [Perimeter Center ROAM, Atlanta, GA - Dinner sponsored by Addigy](https://goo.gl/maps/TAz5kX5x9zcGngSy5) | 15 August 2019, 6:30 p.m. ET | Free |
 | [Dutch Mac Admins](https://www.eventbrite.com/e/opening-pro-academy-tickets-67223161285) | [Pro Academy Training Center, Amsterdam](https://goo.gl/maps/Sb3gH2ghSpXi3XwY8) | 06 August 2019, 14:30 CEST | Free |
 | [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/296/san-diego-macadmins) | [UC San Diego Health](https://goo.gl/maps/88NxcyfGWfjrkmTS6) | 06 August 2019, 6:00 p.m. PT | Free |
 | [Apple Admins of Seattle and the Great Northwest](https://www.meetup.com/Seattle-Apple-Admins) | TBD | 15 August 2019, 6.00 p.m. PT | Free |
