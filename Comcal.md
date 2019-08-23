@@ -16,8 +16,7 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Apple Admins of Seattle and the Great Northwest](https://www.meetup.com/Seattle-Apple-Admins) | TBD | 15 August 2019, 6.00 p.m. PT | Free |
-| [Atlanta Apple Admins](https://www.meetup.com/Atlanta-Apple-Admins/events/263779603/) | [Perimeter Center ROAM, Atlanta, GA - Dinner sponsored by Addigy](https://goo.gl/maps/TAz5kX5x9zcGngSy5) | 15 August 2019, 6:30 p.m. ET | Free |
+| [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/299/san-diego-macadmins) | [UC San Diego Health](https://goo.gl/maps/88NxcyfGWfjrkmTS6) | 10 September 2019, 6:00 p.m. PT | Free |
 | [Houston Apple Admins](https://houstonappleadmins.org/Sept2019-Meetup/) | [FlightAware](https://goo.gl/maps/XQ3wqBddPUP2) | 18 September 2019, 5:30 p.m. CT | Free |
 | [Toronto Mac Admins](https://www.eventbrite.com/e/toronto-macbrained-for-all-admins-cybersecurity-and-your-organization-tickets-67780496289/) | [LoyaltyOne Atrium](https://goo.gl/maps/5xSVC7gvs42Go31R6) | 18 September 2019, 6:00 p.m. ET | Free |
 | [Apple Admins of Seattle and the Great Northwest](https://www.meetup.com/Seattle-Apple-Admins) | TBD | 19 September 2019, 6.00 p.m. PT | Free |
