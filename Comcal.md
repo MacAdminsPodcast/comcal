@@ -6,8 +6,8 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [MacTech Conference](https://conference.mactech.com) | Los Angeles, CA | 15-18 October 2019 | [$999 Early Bird til 28 June](https://forms.mactech.com/fillsurvey.php?sid=676&rid=None) |
-| [Jamf Nation User Conference](https://www.jamf.com/events/jamf-nation-user-conference/2019/) | Minneapolis, MN | 12-14 November 2019 | [$799 Early Bird Rate ($699 for EDU)](https://www.cvent.com/events/jamf-nation-user-conference-2019/registration-7d9e9c5d913c4c38b847a10de4a84e25.aspx) |
+| [MacTech Conference](https://conference.mactech.com) | Los Angeles, CA | 15-18 October 2019 | [$1399 til 14 Oct](https://forms.mactech.com/fillsurvey.php?sid=676&rid=None) |
+| [Jamf Nation User Conference](https://www.jamf.com/events/jamf-nation-user-conference/2019/) | Minneapolis, MN | 12-14 November 2019 | [$1199](https://www.cvent.com/events/jamf-nation-user-conference-2019/registration-7d9e9c5d913c4c38b847a10de4a84e25.aspx) |
 
 
 ##### Meetups
