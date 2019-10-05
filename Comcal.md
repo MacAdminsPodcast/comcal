@@ -15,3 +15,4 @@
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
 | [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/304/san-diego-macadmins) | [UC San Diego Health](https://goo.gl/maps/88NxcyfGWfjrkmTS6) | 9 October 2019, 6:00 p.m. PT | Free |
+| [London Apple Admins](https://londonappleadmins.org.uk/2019/09/18/17th-october-2019-meet-up-jamf/) | Jamf London | 17 October 2019, 18:30 | [RSVP](https://londonappleadmins.org.uk/2019/09/18/17th-october-2019-meet-up-jamf/) |
