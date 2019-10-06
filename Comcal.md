@@ -15,5 +15,5 @@
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
 | [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/304/san-diego-macadmins) | [UC San Diego Health](https://goo.gl/maps/88NxcyfGWfjrkmTS6) | 9 October 2019, 6:00 p.m. PT | Free |
-| [London Apple Admins](https://londonappleadmins.org.uk/2019/09/18/17th-october-2019-meet-up-jamf/) | Jamf London | 17 October 2019, 6:30pm GMT | [RSVP](https://londonappleadmins.org.uk/2019/09/18/17th-october-2019-meet-up-jamf/) |
-| [Adelaide Apple Admins](https://www.eventbrite.com.au/e/apple-admins-adelaide-gm-edition-tickets-75531758523?aff=MacAdminsPodcast) | Rob Roy Hotel, Adelaide 🇦🇺 | 29 October 2019, 5:00 pm ACDT | [Free](https://www.eventbrite.com.au/e/apple-admins-adelaide-gm-edition-tickets-75531758523?aff=MacAdminsPodcast) |
+| [London Apple Admins](https://londonappleadmins.org.uk/2019/09/18/17th-october-2019-meet-up-jamf/) | Jamf London | 17 October 2019, 6:30 p.m. GMT | [RSVP](https://londonappleadmins.org.uk/2019/09/18/17th-october-2019-meet-up-jamf/) |
+| [Adelaide Apple Admins](https://www.eventbrite.com.au/e/apple-admins-adelaide-gm-edition-tickets-75531758523?aff=MacAdminsPodcast) | Rob Roy Hotel, Adelaide 🇦🇺 | 29 October 2019, 5:00 p.m. ACDT | [Free](https://www.eventbrite.com.au/e/apple-admins-adelaide-gm-edition-tickets-75531758523?aff=MacAdminsPodcast) |
