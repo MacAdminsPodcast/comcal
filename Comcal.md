@@ -16,3 +16,4 @@
 | [Adelaide Apple Admins](https://www.eventbrite.com.au/e/apple-admins-adelaide-gm-edition-tickets-75531758523?aff=MacAdminsPodcast) | Rob Roy Hotel, Adelaide 🇦🇺 | 29 October 2019, 5:00 p.m. ACDT | [Free](https://www.eventbrite.com.au/e/apple-admins-adelaide-gm-edition-tickets-75531758523?aff=MacAdminsPodcast) |
 | [Phoenix / Arizona MacAdmins](https://www.jamf.com/jamf-nation/events/user-groups/305/phoenix-arizona-macadmins) | Camelback Arboleda, Phoenix, AZ | 29 October 2019, 6:00 p.m. MST | [Free](https://www.jamf.com/jamf-nation/events/user-groups/305/phoenix-arizona-macadmins) |
 | [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/306/san-diego-macadmins) | [UC San Diego Health](https://goo.gl/maps/88NxcyfGWfjrkmTS6) | 20 November 2019, 6:00 p.m. PT | Free |
+| [Apple Admins of Seattle and the Great Northwest](https://www.meetup.com/Seattle-Apple-Admins) | [HBO](https://www.hbo.com) | 21 November 2019, 6.00 p.m. PT | Free |
