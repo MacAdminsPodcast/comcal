@@ -14,6 +14,7 @@
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
 | [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/306/san-diego-macadmins) | [UC San Diego Health](https://goo.gl/maps/88NxcyfGWfjrkmTS6) | 20 November 2019, 6:00 p.m. PT | Free |
+| [Atlanta Apple Admins](https://www.meetup.com/atlanta-Apple-Admins) | [VMWare](https://maps.apple.com/?address=1155%20Perimeter%20Ctr%20W,%20Atlanta,%20GA%20%2030328,%20United%20States&ll=33.929967,-84.351064&q=1155%20Perimeter%20Ctr%20W&_ext=EiYp0YJh+3X2QEAxnIMAhtAWVcA5T1iHV5z3QEBBliNwIx8WVcBQAw%3D%3D) | 21 November 2019, 6:00 p.m. ET | Free |
 | [Apple Admins of Seattle and the Great Northwest](https://www.meetup.com/Seattle-Apple-Admins) | [HBO](https://www.hbo.com) | 21 November 2019, 6.00 p.m. PT | Free |
 | [Dallas Apple Admins Meetup](https://www.eventbrite.com/e/dallas-apple-admin-meet-up-november-2019-tickets-80048969623) | [Bottle Rocket Studio](https://goo.gl/maps/hdTatL4qMPoPFYjk8) | 21 November 2019, 6.30 p.m. PT | Free |
 | [Los Angeles Mac Admins Meetup](https://www.jamf.com/jamf-nation/events/user-groups/309/los-angeles-mac-admins-meet-up) | [Universal City - See Jamf Nation for more information] | 21 November 2019, 6:00 p.m. PT | Free |
