@@ -19,3 +19,4 @@
 | [Dallas Apple Admins Meetup](https://www.eventbrite.com/e/dallas-apple-admin-meet-up-november-2019-tickets-80048969623) | [Bottle Rocket Studio](https://goo.gl/maps/hdTatL4qMPoPFYjk8) | 21 November 2019, 6.30 p.m. PT | Free |
 | [Los Angeles Mac Admins Meetup](https://www.jamf.com/jamf-nation/events/user-groups/309/los-angeles-mac-admins-meet-up) | [Universal City - See Jamf Nation for more information] | 21 November 2019, 6:00 p.m. PT | Free |
 | [MacDeployment Meetup](https://macdeployment.ca) | [1000 5 Ave SW (9th floor), Calgary, Canada](https://maps.apple.com/?address=1000%205%20Ave%20SW\,%20Calgary%20AB%20T2P%204T9\,%20Canada&ll=51.049261\,-114.083826&q=1000%205%20Ave%20SW) | 28 November 2019, 6:30 p.m. MT | Free |
+| [Houston Apple Admins](https://houstonappleadmins.org/Dec2019-Meetup/) | [Buffalo Bayou Brewing Co](https://g.page/BuffBrew?share) | 4 December 2019, 5:30 p.m. CT | Free |
