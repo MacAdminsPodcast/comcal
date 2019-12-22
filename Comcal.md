@@ -13,4 +13,3 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/315/san-diego-macadmins) | [UC San Diego Health](https://goo.gl/maps/88NxcyfGWfjrkmTS6) | 18 December 2019, 6:00 p.m. PT | Free |
