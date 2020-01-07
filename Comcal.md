@@ -15,3 +15,4 @@
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
 | [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/318/san-diego-macadmins) | [UC San Diego Health](https://goo.gl/maps/88NxcyfGWfjrkmTS6) | 15 January 2019, 6:00 p.m. PT | Free |
+| [Dallas Apple Admins](https://www.eventbrite.com/e/dallas-apple-admin-meet-up-january-2020-tickets-88582355209) | [Bottle Rocket Studio](https://goo.gl/maps/hdTatL4qMPoPFYjk8) | 16 January 2020, 6.30 p.m. PT | Free |
