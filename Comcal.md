@@ -6,15 +6,12 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Jamf Nation User Conference](https://www.jamf.com/events/jamf-nation-user-conference/2019/) | Minneapolis, MN | 12-14 November 2019 | [$1199](https://www.cvent.com/events/jamf-nation-user-conference-2019/registration-7d9e9c5d913c4c38b847a10de4a84e25.aspx) |
+| [MacADUK 2020](https://macad.uk) | The London Film Museum | 24-25 March 2020 | £595 List, £420 Early Bird |
+| [JNUC 2020](https://www.jamf.com/events/jamf-nation-user-conference/2020/) | Hilton San Diego Bayfront | 29 September - 1 October 2020 | $1,199 Standard, $899 First Bird, $999 Super Early Bird |
 
 
 ##### Meetups
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Adelaide Apple Admins](https://www.eventbrite.com.au/e/apple-admins-adelaide-gm-edition-tickets-75531758523?aff=MacAdminsPodcast) | Rob Roy Hotel, Adelaide 🇦🇺 | 29 October 2019, 5:00 p.m. ACDT | [Free](https://www.eventbrite.com.au/e/apple-admins-adelaide-gm-edition-tickets-75531758523?aff=MacAdminsPodcast) |
-| [Phoenix / Arizona MacAdmins](https://www.jamf.com/jamf-nation/events/user-groups/305/phoenix-arizona-macadmins) | Camelback Arboleda, Phoenix, AZ | 29 October 2019, 6:00 p.m. MST | [Free](https://www.jamf.com/jamf-nation/events/user-groups/305/phoenix-arizona-macadmins) |
-| [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/306/san-diego-macadmins) | [UC San Diego Health](https://goo.gl/maps/88NxcyfGWfjrkmTS6) | 20 November 2019, 6:00 p.m. PT | Free |
-| [Apple Admins of Seattle and the Great Northwest](https://www.meetup.com/Seattle-Apple-Admins) | [HBO](https://www.hbo.com) | 21 November 2019, 6.00 p.m. PT | Free |
-| [Dallas Apple Admins Meetup](https://www.eventbrite.com/e/dallas-apple-admin-meet-up-november-2019-tickets-80048969623) | [Bottle Rocket Studio](https://goo.gl/maps/hdTatL4qMPoPFYjk8) | 21 November 2019, 6.30 p.m. PT | Free |
+| [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/318/san-diego-macadmins) | [UC San Diego Health](https://goo.gl/maps/88NxcyfGWfjrkmTS6) | 15 January 2019, 6:00 p.m. PT | Free |
