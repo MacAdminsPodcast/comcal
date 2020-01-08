@@ -15,3 +15,4 @@
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
 | [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/318/san-diego-macadmins) | [UC San Diego Health](https://goo.gl/maps/88NxcyfGWfjrkmTS6) | 15 January 2019, 6:00 p.m. PT | Free |
+| [London Apple Admins](https://www.eventbrite.com/e/13th-february-2020-meet-up-funding-circle-with-code42-tickets-88648234255) | [Funding Circle](https://goo.gl/maps/2FQZPAT2J5vnNdFdA) | 13 February 2020, 6:30 p.m. GMT | Free |
