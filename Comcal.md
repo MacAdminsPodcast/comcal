@@ -19,4 +19,4 @@
 | [Apple Admins of Seattle](https://www.meetup.com/Seattle-Apple-Admins/) | [Splunk Seattle](https://www.google.com/maps/dir/44.571451,6.6745146/splunk+seattle+office/@17.8466009,-129.7746678,3z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x54901534fb36cf8d:0x4dd672c4bf12d060!2m2!1d-122.3296174!2d47.6168261) | 16 January 2020, 6:00 pm. PT | Free |
 | [Houston Apple Admins](https://houstonappleadmins.org/Jan2020-Meetup/) | [Buffalo Bayou Brewing Co](https://g.page/BuffBrew?share) | 21 January 2020, 5:30 p.m. CT | Free |
 | [London Apple Admins](https://www.eventbrite.com/e/13th-february-2020-meet-up-funding-circle-with-code42-tickets-88648234255) | [Funding Circle](https://goo.gl/maps/2FQZPAT2J5vnNdFdA) | 13 February 2020, 6:30 p.m. GMT | Free |
-| [Jamf user group Netherlands](https://www.jamf.com/jamf-nation/events/user-groups/319/jamf-user-group-bol-com) | [Bol.com] (https://goo.gl/maps/xJK696qfwsnBa5pJ8) | 31 January 2020, 5:00 p.m. CET | Free |
+| [Jamf user group Netherlands](https://www.jamf.com/jamf-nation/events/user-groups/319/jamf-user-group-bol-com) | [Bol.com](https://goo.gl/maps/xJK696qfwsnBa5pJ8) | 31 January 2020, 5:00 p.m. CET | Free |
