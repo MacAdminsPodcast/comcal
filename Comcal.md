@@ -14,6 +14,7 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
+| [Atlanta Apple Admins] (https://www.meetup.com/Atlanta-Apple-Admins/events/267755198/) | [Serendipity Labs] (https://www.google.com/maps/search/?api=1&query=33.877804%2C-84.461090) | 23 January 2020, 6:00 p.m. ET | Free |
 | [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/318/san-diego-macadmins) | [UC San Diego Health](https://goo.gl/maps/88NxcyfGWfjrkmTS6) | 15 January 2019, 6:00 p.m. PT | Free |
 | [Dallas Apple Admins](https://www.eventbrite.com/e/dallas-apple-admin-meet-up-january-2020-tickets-88582355209) | [Bottle Rocket Studio](https://goo.gl/maps/hdTatL4qMPoPFYjk8) | 16 January 2020, 6.30 p.m. PT | Free |
 | [Apple Admins of Seattle](https://www.meetup.com/Seattle-Apple-Admins/) | [Splunk Seattle](https://www.google.com/maps/dir/44.571451,6.6745146/splunk+seattle+office/@17.8466009,-129.7746678,3z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x54901534fb36cf8d:0x4dd672c4bf12d060!2m2!1d-122.3296174!2d47.6168261) | 16 January 2020, 6:00 pm. PT | Free |
