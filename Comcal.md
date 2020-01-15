@@ -7,7 +7,7 @@
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
 | [MacADUK 2020](https://macad.uk) | The London Film Museum | 24-25 March 2020 | £595 List, £420 Early Bird |
-| [JNUC 2020](https://www.jamf.com/events/jamf-nation-user-conference/2020/) | Hilton San Diego Bayfront | 29 September - 1 October 2020 | $1,199 Standard, $899 First Bird, $999 Super Early Bird |
+| [JNUC 2020](https://www.jamf.com/events/jamf-nation-user-conference/2020/) | Hilton San Diego Bayfront | 29 September - 1 October 2020 | $1,399 Just in Time, $1,199 Standard, $1,099 Early Bird, $999 Super Early Bird |
 
 
 ##### Meetups
