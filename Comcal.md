@@ -21,6 +21,7 @@
 | [MacDMV](https://www.eventbrite.com/e/macdmv-happy-hour-tickets-89987672551) | [Right Proper Brewing Co](https://www.rightproperbrewing.com/visit-the-brewpub) | 22 January 2020, 6:30 p.m. EST | Free |
 | [Atlanta Apple Admins](https://www.meetup.com/Atlanta-Apple-Admins/events/267755198/) | [Serendipity Labs](https://www.google.com/maps/search/?api=1&query=33.877804%2C-84.461090) | 23 January 2020, 6:00 p.m. ET | Free |
 | [Philly Apple Admins](https://www.meetup.com/Greater-Philadelphia-Area-Mac-Admins/events/267878108/) | [Yards Brewing Company](https://maps.apple.com/?address=500%20Spring%20Garden%20St,%20Philadelphia,%20PA%20%2019123,%20United%20States&auid=2143436201815719814&ll=39.960971,-75.146953&lsp=9902&q=Yards%20Brewing%20Company&_ext=ChkKBQgEEOIBCgQIBRADCgQIBhBoCgQIChAAEiYpxSuo8HP6Q0AxEcuqo8XJUsA5QwHOTJr7Q0BBGX5jngXJUsBQBA%3D%3D) | 23 January 2020, 6:30 p.m. EST | Free |
+| [Netherlands Jamf user group](https://www.jamf.com/jamf-nation/events/user-groups/319/jamf-user-group-bol-com) | [Bol.com](https://goo.gl/maps/xJK696qfwsnBa5pJ8) | 31 January 2020, 5:00 p.m. CET | Free |
 | [Sydney Mac Admins](https://www.meetup.com/Sydney-Mac-Admins/events/267920288/) | [Jamf Sydney Office](https://goo.gl/maps/DkcNzgNYzouX56ow8) | 12 February 2020, 6:00 p.m. AEST | Free |
 | [London Apple Admins](https://www.eventbrite.com/e/13th-february-2020-meet-up-funding-circle-with-code42-tickets-88648234255) | [Funding Circle](https://goo.gl/maps/2FQZPAT2J5vnNdFdA) | 13 February 2020, 6:30 p.m. GMT | Free |
-| [Netherlands Jamf user group](https://www.jamf.com/jamf-nation/events/user-groups/319/jamf-user-group-bol-com) | [Bol.com](https://goo.gl/maps/xJK696qfwsnBa5pJ8) | 31 January 2020, 5:00 p.m. CET | Free |
+
