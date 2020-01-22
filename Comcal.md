@@ -11,7 +11,7 @@
 | [JNUC 2020](https://www.jamf.com/events/jamf-nation-user-conference/2020/) | Hilton San Diego Bayfront | 29 September - 1 October 2020 | $1,399 Just in Time, $1,199 Standard, $1,099 Early Bird, $999 Super Early Bird |
 
 
-##### Meetups
+##### Upcoming Meetups
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
@@ -25,3 +25,8 @@
 | [Sydney Mac Admins](https://www.meetup.com/Sydney-Mac-Admins/events/267920288/) | [Jamf Sydney Office](https://goo.gl/maps/DkcNzgNYzouX56ow8) | 12 February 2020, 6:00 p.m. AEST | Free |
 [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/327/san-diego-macadmins) | [UC San Diego Health](https://maps.apple.com/?q=32.882161,-117.209944&sll=32.882161,-117.209944&sspn=0.004352,0.007113) | 12 February 2020, 6:00 p.m. PT | Free |
 | [London Apple Admins](https://www.eventbrite.com/e/13th-february-2020-meet-up-funding-circle-with-code42-tickets-88648234255) | [Funding Circle](https://goo.gl/maps/2FQZPAT2J5vnNdFdA) | 13 February 2020, 6:30 p.m. GMT  | Free |
+
+##### Future Meetups
+
+| Event Name | Location | Dates | Cost |
+|------------|----------|-------|------|
