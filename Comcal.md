@@ -22,7 +22,7 @@
 | [London Apple Admins](https://www.eventbrite.com/e/13th-february-2020-meet-up-funding-circle-with-code42-tickets-88648234255) | [Funding Circle](https://goo.gl/maps/2FQZPAT2J5vnNdFdA) | 13 February 2020, 6:30 p.m. GMT  | Free |
 | [Univ of Utah MacAdmins](https://apple.lib.utah.edu) | [Univ of Utah, Marriott Library, 1705a Classroom](https://apple.lib.utah.edu/mac-managers-meeting-directions-1705a/) | 19 February 2020, 11:00 a.m. MT  | Free |
 | [Twin Cities MacAdmins](https://www.eventbrite.com/e/twin-cities-mac-admins-meetup-at-target-february-20-2020-tickets-92379019133) | [Target Plaza North, 1001 Nicollet Mall, Minneapolis, MN 55403](https://goo.gl/maps/MZJKgScGuaoU1WWs6) | 20 February 2020, 5:30 p.m. CST  | Free |
-| [Atlanta Apple Admins] (https://www.meetup.com/Atlanta-Apple-Admins/events/268285748/) | [Stratix, 4920 Avalon Ridge Parkway Peachtree Corners, GA 30071](https://goo.gl/maps/oGBu7AUksVanVScs9) | 20 February, 6:00 p.m. EST | Free |
+| [Atlanta Apple Admins](https://www.meetup.com/Atlanta-Apple-Admins/events/268285748/) | [Stratix, 4920 Avalon Ridge Parkway Peachtree Corners, GA 30071](https://goo.gl/maps/oGBu7AUksVanVScs9) | 20 February, 6:00 p.m. EST | Free |
 
 
 ##### Future Meetups
