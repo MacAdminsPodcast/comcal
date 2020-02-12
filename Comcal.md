@@ -17,8 +17,6 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Netherlands Jamf user group](https://www.jamf.com/jamf-nation/events/user-groups/319/jamf-user-group-bol-com) | [Bol.com](https://goo.gl/maps/xJK696qfwsnBa5pJ8) | 31 January 2020, 5:00 p.m. CET | Free |
-| [Sydney Mac Admins](https://www.meetup.com/Sydney-Mac-Admins/events/267920288/) | [Jamf Sydney Office](https://goo.gl/maps/DkcNzgNYzouX56ow8) | 12 February 2020, 6:00 p.m. AEST | Free |
 | [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/327/san-diego-macadmins) | [UC San Diego Health](https://maps.apple.com/?q=32.882161,-117.209944&sll=32.882161,-117.209944&sspn=0.004352,0.007113) | 12 February 2020, 6:00 p.m. PT | Free |
 | [London Apple Admins](https://www.eventbrite.com/e/13th-february-2020-meet-up-funding-circle-with-code42-tickets-88648234255) | [Funding Circle](https://goo.gl/maps/2FQZPAT2J5vnNdFdA) | 13 February 2020, 6:30 p.m. GMT  | Free |
 | [Univ of Utah MacAdmins](https://apple.lib.utah.edu) | [Univ of Utah, Marriott Library, 1705a Classroom](https://apple.lib.utah.edu/mac-managers-meeting-directions-1705a/) | 19 February 2020, 11:00 a.m. MT  | Free |
