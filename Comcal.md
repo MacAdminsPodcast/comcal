@@ -17,11 +17,11 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Univ of Utah MacAdmins](https://apple.lib.utah.edu) | [Univ of Utah, Marriott Library, 1705a Classroom](https://apple.lib.utah.edu/mac-managers-meeting-directions-1705a/) | 19 February 2020, 11:00 a.m. MT  | Free |
 | [Twin Cities MacAdmins](https://www.eventbrite.com/e/twin-cities-mac-admins-meetup-at-target-february-20-2020-tickets-92379019133) | [Target Plaza North, 1001 Nicollet Mall, Minneapolis, MN 55403](https://goo.gl/maps/MZJKgScGuaoU1WWs6) | 20 February 2020, 5:30 p.m. CST  | Free |
 | [Atlanta Apple Admins](https://www.meetup.com/Atlanta-Apple-Admins/events/268285748/) | [Stratix, 4920 Avalon Ridge Parkway Peachtree Corners, GA 30071](https://goo.gl/maps/oGBu7AUksVanVScs9) | 20 February, 6:00 p.m. EST | Free |
 | [MacDeployment Meetup](https://macdeployment.ca) | [1011 9 Ave SE, Suite 300, Calgary AB Canada](https://maps.apple.com/?address=1011%209%20Ave%20SE,%20Calgary%20AB%20T2G%200H7,%20Canada&ll=51.042549,-114.038709) | 20 February 2020, 6:30 p.m. MST | Free |
 | [Los Angeles MacAdmins Meetup](https://www.jamf.com/jamf-nation/events/user-groups/333/los-angeles-mac-admins-meet-up) | [Apple Beats HQ](https://goo.gl/maps/MFjL7z9M7bhiymUA9) | 25 February 2020, 6:30 p.m. PT | Free |
+| [Univ of Utah MacAdmins](https://apple.lib.utah.edu) | [Univ of Utah, Marriott Library, 1705a Classroom](https://apple.lib.utah.edu/mac-managers-meeting-directions-1705a/) | 18 March 2020, 11:00 a.m. MT  | Free |
 
 ##### Future Meetups
 
