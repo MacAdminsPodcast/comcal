@@ -7,6 +7,7 @@
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
 | [MacADUK 2020](https://macad.uk) | The London Film Museum | 24-25 March 2020 | £595 List, £420 Early Bird |
+| [ACEs Conference](https://acesconf.com) | ROAM Meeting Space | 18-20 May 2020 | $699 |
 | [MacDevOpsYVR 2020](https://MDOYVR.com) | SFU Harbour Centre Vancouver, Canada | 10-12 June 2020 | CAD$500+ education, CAD$800+ independent, CAD$1000+ corporate |
 | [Mac Admins Conference](https://macadmins.psu.edu/) | Penn Stater Conference Center, State College, PA | 21-24 July 2020 | Registration opens in March |
 | MacSysAdmin 2020 | Gothenburg, Sweden | 6-9 October 2020 |  |
