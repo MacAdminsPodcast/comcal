@@ -7,6 +7,8 @@
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
 | [MacADUK 2020](https://macad.uk) | The London Film Museum | 24-25 March 2020 | £595 List, £420 Early Bird |
+| [Japan International Schools Technology Group 2020](https://tinyurl.com/JISTG2020Welcome) | [Christian Academy in Japan](https://www.caj.ac.jp/about/contact-access/) | 2-3 April 2020 | ¥3,000 |
+| [ACEs Conference](https://acesconf.com) | ROAM Meeting Space | 18-20 May 2020 | $699 |
 | [MacDevOpsYVR 2020](https://MDOYVR.com) | SFU Harbour Centre Vancouver, Canada | 10-12 June 2020 | CAD$500+ education, CAD$800+ independent, CAD$1000+ corporate |
 | [Mac Admins Conference](https://macadmins.psu.edu/) | Penn Stater Conference Center, State College, PA | 21-24 July 2020 | Registration opens in March |
 | MacSysAdmin 2020 | Gothenburg, Sweden | 6-9 October 2020 |  |
@@ -21,6 +23,7 @@
 | [Atlanta Apple Admins](https://www.meetup.com/Atlanta-Apple-Admins/events/268285748/) | [Stratix, 4920 Avalon Ridge Parkway Peachtree Corners, GA 30071](https://goo.gl/maps/oGBu7AUksVanVScs9) | 20 February, 6:00 p.m. EST | Free |
 | [MacDeployment Meetup](https://macdeployment.ca) | [1011 9 Ave SE, Suite 300, Calgary AB Canada](https://maps.apple.com/?address=1011%209%20Ave%20SE,%20Calgary%20AB%20T2G%200H7,%20Canada&ll=51.042549,-114.038709) | 20 February 2020, 6:30 p.m. MST | Free |
 | [Los Angeles MacAdmins Meetup](https://www.jamf.com/jamf-nation/events/user-groups/333/los-angeles-mac-admins-meet-up) | [Apple Beats HQ](https://goo.gl/maps/MFjL7z9M7bhiymUA9) | 25 February 2020, 6:30 p.m. PT | Free |
+[ San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/334/san-diego-macadmins) | [UC San Diego Health, 9560 Towne Centre Drive, San Diego, CA. 92121](https://maps.apple.com/?q=32.882161,-117.209944&sll=32.882161,-117.209944&sspn=0.004352,0.007113) | 12 March 2020, 6:00 p.m. PT | Free |
 | [Univ of Utah MacAdmins](https://apple.lib.utah.edu) | [Univ of Utah, Marriott Library, 1705a Classroom](https://apple.lib.utah.edu/mac-managers-meeting-directions-1705a/) | 18 March 2020, 11:00 a.m. MT  | Free |
 
 ##### Future Meetups
