@@ -20,7 +20,6 @@
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
 | [Univ of Utah MacAdmins](https://apple.lib.utah.edu) | [Univ of Utah, Marriott Library, 1705a Classroom](https://apple.lib.utah.edu/mac-managers-meeting-directions-1705a/) | 18 March 2020, 11:00 a.m. MT  | Free |
-| [Houston Apple Admins](https://houstonappleadmins.org/Mar2020-Meetup/) | [FlightAware](https://goo.gl/maps/XQ3wqBddPUP2) | 24 March 2020, 05:30 p.m. CT  | Free |
 | [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/338/san-diego-macadmins) | [UC San Diego Health, 9560 Towne Centre Drive, San Diego, CA. 92121](https://maps.apple.com/?q=32.882161,-117.209944&sll=32.882161,-117.209944&sspn=0.004352,0.007113) | 8 April 2020, 6:00 p.m. PT | Free |
 | [Los Angeles Mac Admins Meetup](https://www.jamf.com/jamf-nation/events/user-groups/339/los-angeles-mac-admins-remote-meet-up-and-happy-hour) | [Wherever You Want to Be](https://goo.gl/maps/C83xoXG4Nt2JNdXPA) | 25 March 2019, 5:00 p.m. PT | Free |
 ##### Future Meetups
