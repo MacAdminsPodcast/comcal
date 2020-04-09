@@ -6,11 +6,10 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Japan International Schools Technology Group 2020](https://tinyurl.com/JISTG2020Welcome) | [Christian Academy in Japan](https://www.caj.ac.jp/about/contact-access/) | 2-3 April 2020 | ¥3,000 |
 | RESCHEDULED: [MacADUK 2020](https://macad.uk) | The London Film Museum | 14-15 May 2020 | £595 List, £420 Early Bird |
+| [Futureproof IT Conference](https://futureproofit.org) | Virtual | 18-20 May | $25 Individual, $100 Corporate |
 | [ACEs Conference 2020: The Prequel](http://acesconf.com/aces-conference-the-prequel/) | Virtual | 19-20 May 2020 | Free or $199 |
-| [MacDevOpsYVR 2020](https://MDOYVR.com) | SFU Harbour Centre Vancouver, Canada | 10-12 June 2020 | CAD$500+ education, CAD$800+ independent, CAD$1000+ corporate |
-| [Mac Admins Conference](https://macadmins.psu.edu/) | Penn Stater Conference Center, State College, PA | 21-24 July 2020 | Registration opens in March |
+| [MacDevOpsYVR 2020](https://MDOYVR.com) | Virtual | 10-12 June 2020 | CAD$500+ education, CAD$800+ independent, CAD$1000+ corporate |
 | MacSysAdmin 2020 | Gothenburg, Sweden | 6-9 October 2020 |  |
 | [JNUC 2020](https://www.jamf.com/events/jamf-nation-user-conference/2020/) | Hilton San Diego Bayfront | 29 September - 1 October 2020 | $1,399 Just in Time, $1,199 Standard, $1,099 Early Bird, $999 Super Early Bird |
 | [ACEs Conference 2020](https://acesconf.com) | Atlanta, GA | 19-21 October 2020 | $699 |
