@@ -19,7 +19,8 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Los Angeles Mac Admins Meetup](https://www.jamf.com/jamf-nation/events/user-groups/342/los-angeles-mac-admins-remote-meetup-and-happy-hour) | [At Least Six Feet Away](https://goo.gl/maps/eQqMiT3KVMTLk44m7) | 29 April 2019, 5:00 p.m. PT | Free
+| [Los Angeles Mac Admins Meetup](https://www.jamf.com/jamf-nation/events/user-groups/342/los-angeles-mac-admins-remote-meetup-and-happy-hour) | [At Least Six Feet Away](https://goo.gl/maps/eQqMiT3KVMTLk44m7) | 29 April 2019, 5:00 p.m. PT | Free |
+| [London Apple Admins Weekly Happy Hour](https://londonappleadmins.org.uk) | [Details in #laa-pub](https://macadmins.slack.com/archives/C011AM2KG4F) | Currently: Every Thursday at 5:00PM BST | Free |
 
 ##### Future Meetups
 
