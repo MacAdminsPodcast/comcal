@@ -21,8 +21,7 @@
 |------------|----------|-------|------|
 | [Los Angeles Mac Admins Meetup](https://www.jamf.com/jamf-nation/events/user-groups/342/los-angeles-mac-admins-remote-meetup-and-happy-hour) | [At Least Six Feet Away](https://goo.gl/maps/eQqMiT3KVMTLk44m7) | 29 April 2019, 5:00 p.m. PT | Free |
 | [London Apple Admins Weekly Happy Hour](https://londonappleadmins.org.uk) | [Details in #laa-pub](https://macadmins.slack.com/archives/C011AM2KG4F) | Currently: Every Thursday at 5:00PM BST | Free |
-|
-| [Twin Cities Mac Admins Virtual Meetup](https://tcma-meetup-may-14-2020.eventbrite.com) | [Zoom](https://jamf.zoom.us/j/95947221518?pwd=N1NIMVNGU04yVjE4cTNOa2lWaEkvdz09) | 14 May, 2020, 5:30 p.m. CDT | Free
+| [Twin Cities Mac Admins Virtual Meetup](https://tcma-meetup-may-14-2020.eventbrite.com) | [Zoom](https://jamf.zoom.us/j/95947221518?pwd=N1NIMVNGU04yVjE4cTNOa2lWaEkvdz09) | 14 May, 2020, 5:30 p.m. CDT | Free |
 
 
 ##### Future Meetups
