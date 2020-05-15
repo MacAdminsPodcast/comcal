@@ -10,6 +10,7 @@
 | [Futureproof IT Conference](https://futureproofit.org) | Virtual | 18-20 May | $25 Individual, $100 Corporate |
 | [ACEs Conference 2020: The Prequel](http://acesconf.com/aces-conference-the-prequel/) | Virtual | 19-20 May 2020 | Free or $199 |
 | [MacDevOpsYVR 2020](https://MDOYVR.com) | Virtual | 10-12 June 2020 | CAD$500+ education, CAD$800+ independent, CAD$1000+ corporate |
+| [VMworld 2020](https://www.vmworld.com/en/us/faqs.html) | Virtual/On-line | 28 September 2020 (week) | Cost: To Be Determined |
 | MacSysAdmin 2020 | Gothenburg, Sweden | 6-9 October 2020 |  |
 | [JNUC 2020](https://www.jamf.com/events/jamf-nation-user-conference/2020/) | Hilton San Diego Bayfront | 29 September - 1 October 2020 | $1,399 Just in Time, $1,199 Standard, $1,099 Early Bird, $999 Super Early Bird |
 | [ACEs Conference 2020](https://acesconf.com) | Atlanta, GA | 19-21 October 2020 | $699 |
