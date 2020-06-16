@@ -23,6 +23,7 @@
 | [London Apple Admins Weekly Happy Hour](https://londonappleadmins.org.uk) | [Details in #laa-pub](https://macadmins.slack.com/archives/C011AM2KG4F) | Currently: Every Friday at 5:00PM BST (Moved to avoid PSU sessions) | Free |
 | [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/338/san-diego-macadmins) | [Zoom] | 10 June 2020, 6:00 p.m. PT | Free |
 | [Los Angeles Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/350/los-angeles-mac-admins-remote-meetup-and-happy-hour) | [https://goo.gl/maps/6gTqFQ22vzwcp1DM7] | 24 June 2020, 5:00 p.m. PT | Free |
+| [Texas Apple Admins Network](https://houstonappleadmins.org/TexasAppleAdminsJulyVirtual/) | Virtual (WebEx) | 14 July 2020, 12:00 p.m. CT | Free |
 
 ##### Future Meetups
 
