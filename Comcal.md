@@ -21,6 +21,7 @@
 | [London Apple Admins Weekly Happy Hour](https://londonappleadmins.org.uk) | [Details in #laa-pub](https://macadmins.slack.com/archives/C011AM2KG4F) | Currently: Every Friday at 5:00PM BST (Moved to avoid PSU sessions) | Free |
 | [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/353/san-diego-macadmins) | [Zoom] | 08 July 2020, 6:00 p.m. PT | Free |
 | [Texas Apple Admins Network](https://houstonappleadmins.org/TexasAppleAdminsJulyVirtual/) | Virtual (WebEx) | 14 July 2020, 12:00 p.m. CT | Free |
+| [Berlin Mac Admins] (https://berlinmacadmins.github.io/) | [Online WebEx Meeting] (https://fu-berlin.webex.com/fu-berlin-en/j.php?MTID=m48b44ef6a41e76bcc6b13da58b7f904f) | 29 July 2020, 8:00 p.m. UTC+02:00 | Free |
 
 ##### Future Meetups
 
