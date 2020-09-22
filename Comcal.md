@@ -6,12 +6,12 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Mac Admins Campfire Sessions](https://macadmins.psu.edu) | Online | 9, 16, 23, 30 July 2020 | Free registration |
 | [VMworld 2020](https://www.vmworld.com/en/us/faqs.html) | Online | 28 September 2020 (week) | Free General Pass, $299 Premier Pass |
 | [JNUC 2020](https://www.jamf.com/events/jamf-nation-user-conference/2020/) | Online | 29 September - 1 October 2020 | Free registration |
 | [MacSysAdmin 2020](https://macsysadmin.se) | Online | October 2020 |  |
 | [ACEs Conference 2020](https://acesconf.com) | Atlanta, GA | 19-21 October 2020 | Standard $699, Live Stream $349 |
 | [MacADUK 2020](https://macad.uk) | The London Film Museum | 3-4 November 2020 | £595, discount for Multibuy and Education |
+| [EveryWorld](https://auc.edu.au/everyworld/about/) | Online | 25-27 November 2020 | TBA |
 
 
 ##### Upcoming Meetups
