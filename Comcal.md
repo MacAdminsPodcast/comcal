@@ -22,6 +22,7 @@
 | [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/353/san-diego-macadmins) | [Zoom] | 08 July 2020, 6:00 p.m. PT | Free |
 | [Texas Apple Admins Network](https://houstonappleadmins.org/TexasAppleAdminsJulyVirtual/) | Virtual (WebEx) | 14 July 2020, 12:00 p.m. CT | Free |
 | [Los Angeles Mac Admins Meetup and Happy Hour](https://www.jamf.com/jamf-nation/events/user-groups/361/los-angeles-mac-admins-remote-meetup-and-happy-hour) | [Zoom] | 17 September 2020, 5:00 p.m. PT | Free |
+| [Los Angeles Mac Admins Meetup and Happy Hour](https://www.jamf.com/jamf-nation/events/user-groups/361/los-angeles-mac-admins-remote-meetup-and-happy-hour) | [Zoom] | 22 October 2020, 5:00 p.m. PT | Free |
 
 ##### Future Meetups
 
