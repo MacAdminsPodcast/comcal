@@ -6,10 +6,6 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [VMworld 2020](https://www.vmworld.com/en/us/faqs.html) | Online | 28 September 2020 (week) | Free General Pass, $299 Premier Pass |
-| [JNUC 2020](https://www.jamf.com/events/jamf-nation-user-conference/2020/) | Online | 29 September - 1 October 2020 | Free registration |
-| [MacSysAdmin 2020](https://macsysadmin.se) | Online | October 2020 |  |
-| [ACEs Conference 2020](https://acesconf.com) | Atlanta, GA | 19-21 October 2020 | Standard $699, Live Stream $349 |
 | [MacADUK 2020](https://macad.uk) | The London Film Museum | 3-4 November 2020 | £595, discount for Multibuy and Education |
 | [EveryWorld](https://auc.edu.au/everyworld/about/) | Online | 25-27 November 2020 | TBA |
 
@@ -18,11 +14,7 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [London Apple Admins Weekly Happy Hour](https://londonappleadmins.org.uk) | [Details in #laa-pub](https://macadmins.slack.com/archives/C011AM2KG4F) | Currently: Every Thursday at 5:00/5:30PM BST | Free |
-| [San Diego Mac Admins](https://www.jamf.com/jamf-nation/events/user-groups/353/san-diego-macadmins) | [Zoom] | 08 July 2020, 6:00 p.m. PT | Free |
-| [Texas Apple Admins Network](https://houstonappleadmins.org/TexasAppleAdminsJulyVirtual/) | Virtual (WebEx) | 14 July 2020, 12:00 p.m. CT | Free |
-| [Los Angeles Mac Admins Meetup and Happy Hour](https://www.jamf.com/jamf-nation/events/user-groups/361/los-angeles-mac-admins-remote-meetup-and-happy-hour) | [Zoom] | 17 September 2020, 5:00 p.m. PT | Free |
-| [Los Angeles Mac Admins Meetup and Happy Hour](https://www.jamf.com/jamf-nation/events/user-groups/361/los-angeles-mac-admins-remote-meetup-and-happy-hour) | [Zoom] | 22 October 2020, 5:00 p.m. PT | Free |
+|  |  |  |  |
 
 ##### Future Meetups
 
