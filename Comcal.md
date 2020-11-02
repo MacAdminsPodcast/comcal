@@ -20,3 +20,4 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
+| [Berlin Mac Admins](https://berlinmacadmins.github.io/) | [Online WebEx Meeting](https://fu-berlin.webex.com/fu-berlin-en/j.php?MTID=me8a2fa2a94d525d03e3497d6ed53dae1) | 27 January 2020, 8:00 p.m. UTC+02:00 | Free |
