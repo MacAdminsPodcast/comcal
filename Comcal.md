@@ -7,7 +7,7 @@
 | Event Name | Location | Dates | Format | Cost |
 |------------|----------|-------|--------|------|
 | [MacAD.UK](https://macad.uk) | The London Film Museum | Spring 2021 | TBA | TBA |
-| [ACES Conference](https://acesconf.com) | Online | May 2021 | Synchronous • 2.5 h session weekly for 4 weeks | Prices TBA in February |
+| [ACES Conference](https://acesconf.com) | Online | May 2021 | Synchronous • 2.5 h session weekly for 4 weeks | USD$299 |
 | [MacDeployment Conference](https://macdeployment.ca) | Online | June 2021 | Synchronous • Details TBA | TBA |
 | [MacDevOpsYVR](https://mdoyvr.com) | Online | 9-11 June 2021 | Synchronous • 3 consecutive days | CAD$75-500 |
 | [Apple Worldwide Developers Conference](https://developer.apple.com/wwdc) | Online | June 2021 | Asynchronous • New sessions available daily | Free (?) |
