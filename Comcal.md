@@ -2,12 +2,20 @@
 
 [<img src="https://podcast.macadmins.org/wp-content/uploads/2017/06/Watchman-Monitoring-logo-blue.png" alt="" width="500" height="115" />](https://www.watchmanmonitoring.com)
 
-##### Conference Sites
+##### Conferences
 
-| Event Name | Location | Dates | Cost |
-|------------|----------|-------|------|
-| [MacADUK 2020](https://macad.uk) | The London Film Museum | 3-4 November 2020 | £595, discount for Multibuy and Education |
-| [EveryWorld](https://auc.edu.au/everyworld/about/) | Online | 25-27 November 2020 | TBA |
+| Event Name | Location | Dates | Format | Cost |
+|------------|----------|-------|--------|------|
+| [MacAD.UK](https://macad.uk) | The London Film Museum | Spring 2021 | TBA | TBA |
+| [ACES Conference](https://acesconf.com) | Online | May 2021 | Synchronous • 2.5 h session weekly for 4 weeks | USD$299 |
+| [MacDeployment Conference](https://macdeployment.ca) | Online | June 2021 | Synchronous • Details TBA | TBA |
+| [MacDevOpsYVR](https://mdoyvr.com) | Online | 9-11 June 2021 | Synchronous • 3 consecutive days | CAD$75-500 |
+| [Apple Worldwide Developers Conference](https://developer.apple.com/wwdc) | Online | June 2021 | Asynchronous • New sessions available daily | Free (?) |
+| [Mac Admins Conference](https://macadmins.psu.edu) | Online | June-July 2021 | Synchronous • Weekly “Campfire Sessions” | TBA |
+| [MacTech Conference](https://conference.mactech.com) | TBA | 3rd Quarter 2021 or later | TBA | TBA |
+| [Jamf Nation User Conference](https://www.jamf.com/events/jamf-nation-user-conference/) | Online | 19-21 October 2021 | Synchronous • 3 consecutive days | Free (?) |
+
+
 
 
 ##### Upcoming Meetups
@@ -20,4 +28,4 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Berlin Mac Admins](https://berlinmacadmins.github.io/) | [Online WebEx Meeting](https://fu-berlin.webex.com/fu-berlin-en/j.php?MTID=me8a2fa2a94d525d03e3497d6ed53dae1) | 27 January 2020, 8:00 p.m. UTC+02:00 | Free |
+| [London Apple Admins Pub](https://londonappleadmins.org.uk/) | Online (see #laa-pub in MacAdmins Slack for connection details) | Most Thursdays at 5 p.m.-ish (17:00 UTC) | Free |
