@@ -22,7 +22,7 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-|  |  |  |  |
+| [Texas Apple Admins Virtual Meetup](https://houstonappleadmins.org/Mar2021-TexasAppleAdminsVirtual/) | Online | 30 March 2021 @ 12:00 CST | Free |
 
 ##### Future Meetups
 
