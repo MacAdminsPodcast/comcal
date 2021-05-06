@@ -7,7 +7,7 @@
 | Event Name | Location | Dates | Format | Cost |
 |------------|----------|-------|--------|------|
 | [ACES Conference](https://acesconf.com) | Online | 6, 13, 20, 27 May 2021 | Synchronous • Thursdays 12:00-14:30 EDT (UTC-4) | USD$299 |
-| [MacDeployment Conference](https://macdeployment.ca) | Online | 1-2 June 2021 | Synchronous • 3 session blocks over 2 days (MDT time zone UTC-6) | TBA |
+| [MacDeployment Conference](https://macdeployment.ca) | Online | 1-2 June 2021 | Synchronous • 3 session blocks over 2 days (MDT time zone UTC-6) | Free |
 | [Mac Admins Campfire Sessions](https://macadmins.psu.edu) | Online | 3, 10, 17, 24 June; 8, 15, 22, 29 July 2021 | Synchronous • Thursdays 13:00-15:00 EDT (UTC-4) | Free |
 | [Apple Worldwide Developers Conference](https://developer.apple.com/wwdc) | Online | 7-11 June 2021 | Asynchronous • New sessions available daily | Free |
 | [MacDevOpsYVR](https://mdoyvr.com) | Online | 9-11 June 2021 | Synchronous • 3 consecutive days | CAD$75-500 |
