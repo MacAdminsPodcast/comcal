@@ -12,10 +12,10 @@
 | [Apple Worldwide Developers Conference](https://developer.apple.com/wwdc) | Online | 7–11 June 2021 | Asynchronous • New sessions available daily | Free |
 | [MacDevOpsYVR](https://mdoyvr.com) | Online | 9–11 June 2021 | Synchronous • 3 consecutive days | CAD$75-500 |
 | [MacTech Conference](https://conference.mactech.com) | TBA | 3rd Quarter 2021 or later | TBA | TBA |
-| [MacAD.UK](https://macad.uk) | TBA | Autumn 2021 | TBA (usually 2 consecutive days) | £495-595 |
 | [Objective by the Sea](https://objectivebythesea.com/v4/) | Maui, Hawaii, USA | 28 September – 01 October 2021 | In-person • 2 days training, 2 days presentations | TBA |
 | [MacSysAdmin](http://macsysadmin.se) | Online | 5–8 October 2021 | TBA | TBA |
 | [Jamf Nation User Conference](https://www.jamf.com/events/jamf-nation-user-conference/2021/) | Online | 19–21 October 2021 | Synchronous • 3 consecutive days | Free |
+| [MacAD.UK](https://macad.uk) | London, UK | March 2022 | TBA (usually 2 consecutive days) | £495-595 |
 
 
 ##### Upcoming Meetups
