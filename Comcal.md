@@ -7,6 +7,7 @@
 | Event Name | Location | Dates | Format | Cost |
 |------------|----------|-------|--------|------|
 | [Mac Admins Campfire Sessions](https://macadmins.psu.edu) | Online | 3, 10, 17, 24 June; 8, 15, 22, 29 July 2021 | Synchronous • Thursdays 13:00-15:00 EDT (UTC-4) | Free |
+| [MacAdminsUA](https://macadmins.org.ua/macadminsua-en/) | Online | 16 September | Synchronous | Free |
 | [Objective by the Sea](https://objectivebythesea.com/v4/) | Maui, Hawaii, USA | 28 September – 01 October 2021 | In-person • 2 days training, 2 days presentations | Free or USD$499 Corporate |
 | [MacSysAdmin](https://macsysadmin.se) | Online | 5–8 October 2021 | Asynchronous • New sessions available daily | Free (Optional T-shirt purchase) |
 | [Jamf Nation User Conference](https://www.jamf.com/events/jamf-nation-user-conference/2021/) | Online | 19–21 October 2021 | Synchronous • 3 consecutive days | Free |
