@@ -9,7 +9,7 @@
 | [MacTech Conference](https://conference.mactech.com) | TBA | 3rd Quarter 2021 or later | TBA | TBA |
 | [MacAD.UK](https://macad.uk) | London, UK | March 2022 | In-person • 2 consecutive days | £495-595 |
 | [Penn State MacAdmins Conference](https://macadmins.psu.edu/) | TBA | 11-15 July 2022 | TBA | TBA |
-| [Jamf Nation User Conference](https://www.jamf.com/events/jamf-nation-user-conference/2022/) | San Diego, CA & Online | 27–29 September 2022 | In Person & Virtual | TBA |
+| [Jamf Nation User Conference](https://www.jamf.com/events/jamf-nation-user-conference/2022/) | San Diego, CA & Online | 27–29 September 2022 | In Person & Virtual | In person pricing:<br />$799 Education (Super Early Bird)<br />$999 Commercial (Super Early Bird)<br />———<br /> $299 Virtual <br />Keynote streams free |
 
 
 <!-- ##### Upcoming Meetups
