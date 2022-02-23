@@ -16,9 +16,9 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Mac Admin Monthly](http://www.macadminmonthly.org) | Virtual | 8 February 2022, 4:30pm ET | Free |
-| [San Diego MacAdmins Meetup](https://community.jamf.com/t5/san-diego-mac-admins/february-9-2022-san-diego-macadmins-meetup/ec-p/256034#M20) | Virtual | 9 February 2022, 6pm PT | Free |
-| [JumpCloud IT Admin Network (DC)](https://www.meetup.com/pro/jumpcloud-admin-network/) | Virtual | 8 February 2022, 4pm ET | Free |
+| [Mac Admin Monthly](http://www.macadminmonthly.org) | Virtual | 8 March 2022, 4:30pm ET | Free |
+| [JumpCloud IT Admin Network (DC)](https://www.meetup.com/dc-jumpcloud-admins/) | Virtual | 8 March 2022, 4pm ET | Free |
+| [San Diego MacAdmins Meetup](https://community.jamf.com/t5/san-diego-mac-admins/march-9-2022-san-diego-macadmins-meetup/ec-p/259653#M21) | Virtual | 9 March 2022, 6pm PT | Free |
 
 
 ##### Recurring Meetups
