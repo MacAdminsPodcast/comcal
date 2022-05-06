@@ -6,10 +6,13 @@
 
 | Event Name | Location | Dates | Format | Cost |
 |------------|----------|-------|--------|------|
-| [MacTech Conference](https://conference.mactech.com) | TBA | 3rd Quarter 2021 or later | TBA | TBA |
-| [MacAD.UK](https://macad.uk) | London, UK | March 2022 | In-person • 2 consecutive days | £495-595 |
-| [Penn State MacAdmins Conference](https://macadmins.psu.edu/) | TBA | 11-15 July 2022 | TBA | TBA |
-| [Jamf Nation User Conference](https://www.jamf.com/events/jamf-nation-user-conference/2022/) | San Diego, CA & Online | 27–29 September 2022 | In Person & Virtual | In person pricing:<br />$799 Education (Super Early Bird)<br />$999 Commercial (Super Early Bird)<br />———<br /> $299 Virtual <br />Keynote streams free |
+| [ACES Conference](https://acesconf.com) | Online | 5, 12, 19, 26 May 2022 | Synchronous • Thursdays 12:00-14:30 EDT (UTC-4) | USD$299 |
+| [MacAdmins Campfire Sessions](https://macadmins.psu.edu/) | Online (State College, PA, USA) | Thursdays in June and July 2022 | Synchronous • Thursdays 13:00-15:00 EDT (UTC-4) | Free |
+| [Apple Worldwide Developers Conference](https://developer.apple.com/wwdc) | Online (one in-person event @ Cupertino, CA, USA) | 6–10 June 2022 | Asynchronous • New sessions available daily | Free |
+| [MacDevOps YVR](https://mdoyvr.com) | Online (Vancouver, BC, Canada) | 15-17 June 2022 | Synchronous • 2 consecutive days | CAD$50-2000 |
+| [Jamf Nation User Conference](https://www.jamf.com/events/jamf-nation-user-conference/2022/) | San Diego, CA & Online | 27–29 September 2022 | In Person & Virtual | $899-$1299 Education.<br/>$1099-$1499 Commercial (pricing increases over time),<br />$299 Virtual,<br />Keynote streams free |
+| [MacSysAdmin](https://macsysadmin.se) | Online (Göteborg, Sweden) | 4–7 October 2022 | Asynchronous • New sessions available daily | Free (Optional T-shirt purchase) |
+| [Objective by the Sea](https://objectivebythesea.org/) | El Vendrell, Spain (Barcelona) | 3-5 October 2022 (Training)<br/>6-7 October 2022 (Talks) | In Person | 0-499€ |
 
 
 ##### Upcoming Meetups
@@ -25,5 +28,5 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [London Apple Admins Pub](https://londonappleadmins.org.uk/) | Online (see #laa-pub in MacAdmins Slack for connection details) | Most Thursdays at 5 p.m.-ish (17:00 UTC) | Free |
+| [London Apple Admins Pub](https://londonappleadmins.org.uk/) | Online weekly (see #laa-pub in MacAdmins Slack for connection details), sometimes in-person  | Most Thursdays at 17:00 BST (UTC+1), 19:00 BST when in-person | Free |
 | #ANZMac Channel Happy Hour | Online (see #anzmac in MacAdmins Slack for connection details) | Thursdays 5 p.m. AEST | Free |
