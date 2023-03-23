@@ -14,8 +14,7 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Sydney Mac Admins](https://www.meetup.com/sydney-mac-admins/events/290889273/)| [Suite 32.03, 180 George St, Sydney](https://goo.gl/maps/PGERBAaERJhRFVKg6) | 5:30pm 16th February 2023 | Free |
-| [Sydney Mac Admins](https://www.meetup.com/sydney-mac-admins/events/290889338/)| [Harts Pub, Sydney](https://goo.gl/maps/FfDyMsTb3fvRPfhS6) | 5:30pm 16th March 2023 | Free |
+| [Sydney Mac Admins](https://sydneymacadmins.com)| [Level 6, 341 George St, Sydney](https://goo.gl/maps/r2Tg6YvvBQiZfzst7) | 5:30pm 20th April 2023 | Free |
 
 
 ##### Recurring Meetups
