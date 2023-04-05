@@ -6,7 +6,11 @@
 
 | Event Name | Location | Dates | Format | Cost |
 |------------|----------|-------|--------|------|
-| [XWorld]([https://acesconf.com](https://auc.edu.au/)) | Melbourne, AUS | 30-31 March 2023 | TBA | TBA |
+| [MacADUK](https://macad.uk/) | [Hilton Metropole Hotel - Brighton, UK](https://g.page/HiltonBrightonMetropole?share) | 22-24 May 2023 | In Person | TBA |
+| [Apple WWDC](https://developer.apple.com/wwdc23/) | Apple Park | 5-9 June 2023 | Online | TBA |
+| [Penn State MacAdmins](https://macadmins.psu.edu/) | [Penn Stater Conference Center Hotel, Pennsylvania, US](https://thepennstaterhotel.psu.edu/) | 18-21 July 2023 | In Person | Early Bird $849 after May 23 $999 |
+| [JNUC](https://www.jamf.com/events/jamf-nation-user-conference/2023/) | [Austin Concention Center, Texas](https://www.austinconventioncenter.com/) | 19-21 September 2023 | Hybrid | TBA |
+| [MacSysAdmin](https://macsysadmin.se/) | Göteborg, Sweden | 3-6 October 2023 | TBA | TBA |
 
 
 
@@ -15,6 +19,7 @@
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
 | [Sydney Mac Admins](https://sydneymacadmins.com)| [Level 6, 341 George St, Sydney](https://goo.gl/maps/r2Tg6YvvBQiZfzst7) | 5:30pm 20th April 2023 | Free |
+| [Sydney Mac Admins](https://sydneymacadmins.com)| [Harts Pub, Sydney](https://goo.gl/maps/tPjXZjsLyjx3SMFs8) | 5:30pm 25th May 2023 | Free |
 
 
 ##### Recurring Meetups
