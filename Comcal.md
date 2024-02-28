@@ -14,8 +14,7 @@
 
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
-| [Sydney Mac Admins](https://sydneymacadmins.com)| [Level 6, 341 George St, Sydney](https://goo.gl/maps/r2Tg6YvvBQiZfzst7) | 5:30pm 20th April 2023 | Free |
-|[MacAdminsUA](https://macadmins.org.ua/macadminsua-at-macpaw-space/) | [MacPaw.Space](https://macapw.space) | April 19 at 19:00 | Free |
+| [Houston Apple Admins](https://houstonappleadmins.org/Mar2024-HoustonAppleAdmins/)| [Saint Arnold Brewing Company](https://goo.gl/maps/J3KutKEH63c19SS5A) | 5:30pm 4th March 2024 | Free |
 
 
 ##### Recurring Meetups
