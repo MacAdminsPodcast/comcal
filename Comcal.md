@@ -7,6 +7,7 @@
 | Event Name | Location | Dates | Format | Cost |
 |------------|----------|-------|--------|------|
 | [XWorld]([https://acesconf.com](https://auc.edu.au/)) | Melbourne, AUS | 30-31 March 2023 | TBA | TBA |
+| [MacAdmins Conference]([https://macadmins.psu.edu](https://macadmins.psu.edu/) | State College, Pennsylvania, USA | 9-12 July 2024 | In Person | $999 |
 
 
 
