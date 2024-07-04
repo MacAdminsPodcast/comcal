@@ -15,6 +15,7 @@
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
 | [Houston Apple Admins](https://houstonappleadmins.org/Mar2024-HoustonAppleAdmins/)| [Saint Arnold Brewing Company](https://goo.gl/maps/J3KutKEH63c19SS5A) | 5:30pm 4th March 2024 | Free |
+| [Toronto Mac Admins](https://lu.ma/pcvhlxq8) | [JumpPlus on College, 275 College St, Toronto, ON M5T 1S2]([https://map_or_venue.link](https://www.google.com/maps/search/?api=1&query=Jump%20I.T.&query_place_id=ChIJmb4BtqhAK4gRtQec_IDt5wU)) | August 14, 2024 at 6:00pm | Free |
 
 
 ##### Recurring Meetups
